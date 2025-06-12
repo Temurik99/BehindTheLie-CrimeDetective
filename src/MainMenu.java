@@ -78,7 +78,6 @@ public class MainMenu extends JFrame {
         backgroundPanel.setLayout(null);
         setContentPane(backgroundPanel);
 
-        // Create main buttons
         for (int i = 0; i < buttons.length; i++) {
             final int index = i;
             JButton button = new JButton() {
@@ -115,10 +114,8 @@ public class MainMenu extends JFrame {
             backgroundPanel.add(button);
         }
 
-        // Create dropdown panels
         createDropdowns();
 
-        // Create selection display labels
         createSelectionLabels();
 
         // Set button actions
@@ -133,7 +130,6 @@ public class MainMenu extends JFrame {
         });
         buttons[3].addActionListener(e -> System.exit(0));
 
-        // Add mouse listener to close dropdowns when clicking elsewhere
         backgroundPanel.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {
@@ -151,7 +147,6 @@ public class MainMenu extends JFrame {
         setSize(ORIGINAL_WIDTH, ORIGINAL_HEIGHT);
         setLocationRelativeTo(null);
 
-        // Ensure buttons are scaled after the frame is shown
         SwingUtilities.invokeLater(this::scaleButtons);
 
         addComponentListener(new ComponentAdapter() {
@@ -163,16 +158,13 @@ public class MainMenu extends JFrame {
     }
 
     private void loadAudioFiles() throws Exception {
-        // Load background music
         AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(
                 getClass().getClassLoader().getResource("detective song.wav"));
         backgroundMusic = AudioSystem.getClip();
         backgroundMusic.open(audioInputStream);
 
-        // Set the music to loop continuously
         backgroundMusic.loop(Clip.LOOP_CONTINUOUSLY);
 
-        // Load button click sound
         audioInputStream = AudioSystem.getAudioInputStream(
                 getClass().getClassLoader().getResource("Main Click.wav"));
         buttonClickSound = AudioSystem.getClip();
@@ -193,7 +185,6 @@ public class MainMenu extends JFrame {
     }
 
     private void createDropdowns() {
-        // Difficulty dropdown
         difficultyDropdown = new JPanel();
         difficultyDropdown.setLayout(new GridLayout(3, 1, 0, 0));
         difficultyDropdown.setOpaque(false);
@@ -220,7 +211,6 @@ public class MainMenu extends JFrame {
         backgroundPanel.add(difficultyDropdown);
         backgroundPanel.setComponentZOrder(difficultyDropdown, 0);
 
-        // Suspects dropdown
         suspectsDropdown = new JPanel();
         suspectsDropdown.setLayout(new GridLayout(3, 1, 0, 0));
         suspectsDropdown.setOpaque(false);
@@ -249,23 +239,19 @@ public class MainMenu extends JFrame {
     }
 
     private void createSelectionLabels() {
-        // Difficulty label
         difficultyLabel = new JLabel("", SwingConstants.LEFT) {
             @Override
             protected void paintComponent(Graphics g) {
                 Graphics2D g2d = (Graphics2D) g.create();
                 g2d.setComposite(AlphaComposite.getInstance(AlphaComposite.SRC_OVER, 1 - fadeAlpha));
 
-                // Paint background
                 g2d.setColor(getBackground());
                 g2d.fillRect(0, 0, getWidth(), getHeight());
 
-                // Paint border with the same alpha
                 g2d.setColor(new Color(0x44270C));
                 g2d.setStroke(new BasicStroke(2));
                 g2d.drawRect(0, 0, getWidth() - 1, getHeight() - 1);
 
-                // Paint text
                 super.paintComponent(g2d);
                 g2d.dispose();
             }
@@ -276,30 +262,26 @@ public class MainMenu extends JFrame {
         difficultyLabel.setBackground(new Color(0xF8ECD9));
         difficultyLabel.setBorder(BorderFactory.createEmptyBorder(5, 10, 5, 10)); // Just padding now
 
-        // Suspects label
         suspectsLabel = new JLabel("", SwingConstants.RIGHT) {
             @Override
             protected void paintComponent(Graphics g) {
                 Graphics2D g2d = (Graphics2D) g.create();
                 g2d.setComposite(AlphaComposite.getInstance(AlphaComposite.SRC_OVER, 1 - fadeAlpha));
 
-                // Paint background
                 g2d.setColor(getBackground());
                 g2d.fillRect(0, 0, getWidth(), getHeight());
 
-                // Paint border with the same alpha
                 g2d.setColor(new Color(0x44270C));
                 g2d.setStroke(new BasicStroke(2));
                 g2d.drawRect(0, 0, getWidth() - 1, getHeight() - 1);
 
-                // Paint text
                 super.paintComponent(g2d);
                 g2d.dispose();
             }
         };
         suspectsLabel.setFont(new Font("Arial", Font.BOLD, 16));
         suspectsLabel.setForeground(Color.BLACK);
-        suspectsLabel.setOpaque(false); // Now we handle background ourselves
+        suspectsLabel.setOpaque(false);
         suspectsLabel.setBackground(new Color(0xF8ECD9));
         suspectsLabel.setBorder(BorderFactory.createEmptyBorder(5, 10, 5, 10)); // Just padding now
 
@@ -311,12 +293,10 @@ public class MainMenu extends JFrame {
     }
 
     private void updateSelectionLabels() {
-        // Update difficulty label with colored text
         String difficultyText = "Difficulty: ";
         String difficultyValue = currentDifficulty;
         difficultyLabel.setText("<html>" + difficultyText + "<font color='" + getDifficultyColor() + "'>" + difficultyValue + "</font></html>");
 
-        // Update suspects label with colored text
         String suspectsText = "Num. Of Suspects: ";
         String suspectsValue = currentSuspects;
         suspectsLabel.setText("<html>" + suspectsText + "<font color='" + getSuspectsColor() + "'>" + suspectsValue + "</font></html>");
@@ -343,21 +323,17 @@ public class MainMenu extends JFrame {
     private void scaleSelectionLabels() {
         if (getWidth() <= 0 || getHeight() <= 0) return;
 
-        // Get the Num. Of Suspects button position and dimensions
         int suspectsButtonX = (int)(BUTTON_SPECS[2][0] * getWidth() / (double)ORIGINAL_WIDTH);
         int suspectsButtonY = (int)(BUTTON_SPECS[2][1] * getHeight() / (double)ORIGINAL_HEIGHT);
         int suspectsButtonWidth = (int)(BUTTON_SPECS[2][2] * getWidth() / (double)ORIGINAL_WIDTH);
         int suspectsButtonHeight = (int)(BUTTON_SPECS[2][3] * getHeight() / (double)ORIGINAL_HEIGHT);
 
-        // Get the Exit button position to place labels below it
         int exitButtonY = (int)(BUTTON_SPECS[3][1] * getHeight() / (double)ORIGINAL_HEIGHT);
         int exitButtonHeight = (int)(BUTTON_SPECS[3][3] * getHeight() / (double)ORIGINAL_HEIGHT);
 
-        // Calculate label dimensions
         int labelWidth = suspectsButtonWidth / 2 - 10;
         int labelHeight = suspectsButtonHeight / 2;
 
-        // Position difficulty label on the left side below Exit button
         difficultyLabel.setBounds(
                 suspectsButtonX,
                 exitButtonY + exitButtonHeight + 10,  // Position below Exit button
@@ -365,7 +341,6 @@ public class MainMenu extends JFrame {
                 labelHeight
         );
 
-        // Position suspects label on the right side below Exit button
         suspectsLabel.setBounds(
                 suspectsButtonX + suspectsButtonWidth - labelWidth,
                 exitButtonY + exitButtonHeight + 10,  // Position below Exit button
@@ -407,7 +382,6 @@ public class MainMenu extends JFrame {
         }
 
         if (show) {
-            // Bring to front before showing
             backgroundPanel.setComponentZOrder(dropdown, 0);
             Point loc = buttons[buttonIndex].getLocation();
             dropdown.setBounds(loc.x, loc.y + buttons[buttonIndex].getHeight(),
@@ -464,13 +438,11 @@ public class MainMenu extends JFrame {
     }
 
     private void startFadeOut() {
-        // Close any open dropdowns when starting fade out
         difficultyDropdownVisible = false;
         suspectsDropdownVisible = false;
         difficultyDropdown.setVisible(false);
         suspectsDropdown.setVisible(false);
 
-        // Stop the background music when fading out
         stopBackgroundMusic();
 
         fadeAlpha = 0.0f;
@@ -498,14 +470,12 @@ public class MainMenu extends JFrame {
     }
 
     private void startGame() {
-        // Stop all animations and clean up
         if (fadeTimer != null) fadeTimer.stop();
         stopBackgroundMusic();
 
-        // Create and show game scene
         SwingUtilities.invokeLater(() -> {
-            MainGameScene gameScene = new MainGameScene();
-            dispose(); // Close the menu only after the game scene is ready
+            MainGameScene gameScene = new MainGameScene(currentDifficulty, currentSuspects);
+            dispose();
             gameScene.setVisible(true);
         });
     }

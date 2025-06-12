@@ -1,0 +1,730 @@
+﻿Scenario_ID,Difficulty,Scenario_Description,Question_ID,Question_Text,Character,Innocent_Answer,Guilty_Answer
+Easy 1,Easy,"A wallet was stolen from a park bench near the fountain. Witnesses saw 9 people nearby, but no one admits to taking it. The thief left behind a muddy shoeprint and was seen wearing a red cap.",Q1,Where were you sitting in the park?,Lawyer,"By the oak tree, reviewing a client's case.","I was near the fountain, I think. Or maybe the oak tree."
+Easy 1,Easy,Same as above,Q1,Where were you sitting in the park?,Delivery Man,"On a bench near the east gate, eating my lunch.","I wasn’t sitting, just passing through."
+Easy 1,Easy,Same as above,Q1,Where were you sitting in the park?,Doctor,"On the south side, reading a medical journal.",I don’t recall exactly—maybe near the fountain?
+Easy 1,Easy,Same as above,Q1,Where were you sitting in the park?,Bystander,"I was standing by the duck pond, feeding birds.","Uh, I sat on a bench... the one with the broken slat."
+Easy 1,Easy,Same as above,Q1,Where were you sitting in the park?,Old Man,On my usual bench by the roses.,"I move around a lot, can’t remember where I was."
+Easy 1,Easy,Same as above,Q1,Where were you sitting in the park?,Bartender,I wasn’t sitting—just cutting through the park to work.,"I sat by the fountain. Nice spot, really."
+Easy 1,Easy,Same as above,Q1,Where were you sitting in the park?,Electrician,On a bench fixing my toolbox.,I don’t sit in parks. Too busy.
+Easy 1,Easy,Same as above,Q1,Where were you sitting in the park?,Taxi Driver,"In my cab parked nearby, waiting for a fare.",I sat... somewhere. Not sure.
+Easy 1,Easy,Same as above,Q1,Where were you sitting in the park?,Tutor,"Under the big willow tree, grading papers.",I was by the fountain. Alone.
+Easy 1,Easy,Same as above,Q2,Did you see anyone near the fountain around that time?,Lawyer,"Yes, a jogger passed by twice.","No, I wasn’t paying attention."
+Easy 1,Easy,Same as above,Q2,Did you see anyone near the fountain around that time?,Delivery Man,Just the ice cream vendor.,No one suspicious. Definitely not.
+Easy 1,Easy,Same as above,Q2,Did you see anyone near the fountain around that time?,Doctor,A woman in a red cap fed the pigeons.,"I saw someone, but they left quickly."
+Easy 1,Easy,Same as above,Q2,Did you see anyone near the fountain around that time?,Bystander,A kid dropped his toy near the fountain.,Nope. Nothing.
+Easy 1,Easy,Same as above,Q2,Did you see anyone near the fountain around that time?,Old Man,The gardener was trimming bushes.,My eyesight’s bad—couldn’t say.
+Easy 1,Easy,Same as above,Q2,Did you see anyone near the fountain around that time?,Bartender,A couple arguing loudly.,I wasn’t looking that way.
+Easy 1,Easy,Same as above,Q2,Did you see anyone near the fountain around that time?,Electrician,A guy in a red cap loitering.,I didn’t see anything unusual.
+Easy 1,Easy,Same as above,Q2,Did you see anyone near the fountain around that time?,Taxi Driver,A tourist taking photos.,"No, and I was watching closely."
+Easy 1,Easy,Same as above,Q2,Did you see anyone near the fountain around that time?,Tutor,A student from my class waved at me.,"I saw someone, but they had sunglasses."
+Easy 1,Easy,Same as above,Q3,What were you wearing today?,Lawyer,A blue suit and tie.,"A red cap and jeans. Wait—no, I mean..."
+Easy 1,Easy,Same as above,Q3,What were you wearing today?,Delivery Man,Company uniform and a hat.,Just normal clothes. Nothing special.
+Easy 1,Easy,Same as above,Q3,What were you wearing today?,Doctor,Scrubs and a white coat.,A jacket. Maybe red? I forget.
+Easy 1,Easy,Same as above,Q3,What were you wearing today?,Bystander,A green hoodie and sneakers.,Clothes? Why does that matter?
+Easy 1,Easy,Same as above,Q3,What were you wearing today?,Old Man,My usual tweed jacket.,Something comfortable. Can’t recall.
+Easy 1,Easy,Same as above,Q3,What were you wearing today?,Bartender,Black shirt with the bar logo.,A red cap. I mean—just a shirt.
+Easy 1,Easy,Same as above,Q3,What were you wearing today?,Electrician,Work boots and a high-vis vest.,I changed clothes earlier...
+Easy 1,Easy,Same as above,Q3,What were you wearing today?,Taxi Driver,A polo shirt and slacks.,My uniform. Definitely not a cap.
+Easy 1,Easy,Same as above,Q3,What were you wearing today?,Tutor,A sweater and glasses.,A red cap. It was sunny.
+Easy 1,Easy,Same as above,Q4,Can anyone confirm your alibi?,Lawyer,My client called me at that time.,I was alone. No one saw me.
+Easy 1,Easy,Same as above,Q4,Can anyone confirm your alibi?,Delivery Man,The security guard scanned my package.,No witnesses. I work solo.
+Easy 1,Easy,Same as above,Q4,Can anyone confirm your alibi?,Doctor,The nurse texted me about a patient.,I don’t need an alibi.
+Easy 1,Easy,Same as above,Q4,Can anyone confirm your alibi?,Bystander,My friend was with me—ask her.,I don’t remember who was around.
+Easy 1,Easy,Same as above,Q4,Can anyone confirm your alibi?,Old Man,The park ranger nods at me daily.,"At my age, who notices me?"
+Easy 1,Easy,Same as above,Q4,Can anyone confirm your alibi?,Bartender,My shift manager clocked me in.,I wasn’t on the clock yet.
+Easy 1,Easy,Same as above,Q4,Can anyone confirm your alibi?,Electrician,My coworker saw me leave.,I don’t keep track.
+Easy 1,Easy,Same as above,Q4,Can anyone confirm your alibi?,Taxi Driver,My GPS logs all my stops.,No one was in the cab.
+Easy 1,Easy,Same as above,Q4,Can anyone confirm your alibi?,Tutor,My student can vouch for me.,I didn’t talk to anyone.
+Easy 1,Easy,Same as above,Q5,Do you have any mud on your shoes?,Lawyer,"No, I polished them this morning.",Mud? Uh... let me check.
+Easy 1,Easy,Same as above,Q5,Do you have any mud on your shoes?,Delivery Man,Just a bit from the grass.,I cleaned them right after.
+Easy 1,Easy,Same as above,Q5,Do you have any mud on your shoes?,Doctor,"No, I avoid muddy areas.",Maybe a little. It rained.
+Easy 1,Easy,Same as above,Q5,Do you have any mud on your shoes?,Bystander,"Nope, I wear waterproof boots.",I might’ve stepped in something.
+Easy 1,Easy,Same as above,Q5,Do you have any mud on your shoes?,Old Man,My shoes are spotless.,Mud? Where? Show me.
+Easy 1,Easy,Same as above,Q5,Do you have any mud on your shoes?,Bartender,"No, I walk on paved paths.",I wiped them off already.
+Easy 1,Easy,Same as above,Q5,Do you have any mud on your shoes?,Electrician,Mud? I work in it daily.,Not that I noticed.
+Easy 1,Easy,Same as above,Q5,Do you have any mud on your shoes?,Taxi Driver,"No, I drive everywhere.",I walked through a puddle.
+Easy 1,Easy,Same as above,Q5,Do you have any mud on your shoes?,Tutor,"No, I took the sidewalk.",I brushed it off already.
+Easy 1,Easy,Same as above,Q6,Have you ever been accused of theft before?,Lawyer,"No, and I’d sue anyone who did.",That’s irrelevant to this.
+Easy 1,Easy,Same as above,Q6,Have you ever been accused of theft before?,Delivery Man,Never. My record’s clean.,A misunderstanding years ago.
+Easy 1,Easy,Same as above,Q6,Have you ever been accused of theft before?,Doctor,Absolutely not.,I was cleared of all charges.
+Easy 1,Easy,Same as above,Q6,Have you ever been accused of theft before?,Bystander,"No, I hate thieves.",Why are you asking that?
+Easy 1,Easy,Same as above,Q6,Have you ever been accused of theft before?,Old Man,In 70 years? Never.,That was a long time ago.
+Easy 1,Easy,Same as above,Q6,Have you ever been accused of theft before?,Bartender,"No, I handle cash honestly.",A false accusation once.
+Easy 1,Easy,Same as above,Q6,Have you ever been accused of theft before?,Electrician,"Nope. I fix things, not steal.",It was a prank.
+Easy 1,Easy,Same as above,Q6,Have you ever been accused of theft before?,Taxi Driver,"No, and I’d remember.",Just a customer complaint.
+Easy 1,Easy,Same as above,Q6,Have you ever been accused of theft before?,Tutor,"No, my reputation matters.",A silly rumor in college.
+Easy 1,Easy,Same as above,Q7,Did you notice anything suspicious?,Lawyer,A man hurried away from the bench.,Everything seemed normal.
+Easy 1,Easy,Same as above,Q7,Did you notice anything suspicious?,Delivery Man,A guy kept checking his pockets.,Nope. All good.
+Easy 1,Easy,Same as above,Q7,Did you notice anything suspicious?,Doctor,A child crying near the fountain.,I wasn’t paying attention.
+Easy 1,Easy,Same as above,Q7,Did you notice anything suspicious?,Bystander,A shady guy in sunglasses.,Not a thing.
+Easy 1,Easy,Same as above,Q7,Did you notice anything suspicious?,Old Man,Someone dropped a wallet earlier.,My eyes aren’t what they used to be.
+Easy 1,Easy,Same as above,Q7,Did you notice anything suspicious?,Bartender,A guy in a red cap lurking.,I mind my own business.
+Easy 1,Easy,Same as above,Q7,Did you notice anything suspicious?,Electrician,A woman arguing on the phone.,"No, why?"
+Easy 1,Easy,Same as above,Q7,Did you notice anything suspicious?,Taxi Driver,A jogger bumped into someone.,I was focused on driving.
+Easy 1,Easy,Same as above,Q7,Did you notice anything suspicious?,Tutor,A student acting nervous.,I don’t get involved.
+Easy 1,Easy,Same as above,Q8,What time did you leave the park?,Lawyer,"At 3:15 PM, after my call.",Around 3 PM... or maybe later.
+Easy 1,Easy,Same as above,Q8,What time did you leave the park?,Delivery Man,2:50 PM—my delivery log shows it.,I didn’t check the time.
+Easy 1,Easy,Same as above,Q8,What time did you leave the park?,Doctor,"3:30 PM, when my shift started.",Sometime after lunch.
+Easy 1,Easy,Same as above,Q8,What time did you leave the park?,Bystander,"3:05 PM, when my friend left.",I wasn’t watching the clock.
+Easy 1,Easy,Same as above,Q8,What time did you leave the park?,Old Man,I’m always here till 4 PM.,Whenever I felt like it.
+Easy 1,Easy,Same as above,Q8,What time did you leave the park?,Bartender,Left at 2:45 PM for my shift.,I don’t remember exactly.
+Easy 1,Easy,Same as above,Q8,What time did you leave the park?,Electrician,"3:20 PM, when my break ended.",Time flies in the park.
+Easy 1,Easy,Same as above,Q8,What time did you leave the park?,Taxi Driver,3 PM sharp—my meter was running.,I wasn’t in a hurry.
+Easy 1,Easy,Same as above,Q8,What time did you leave the park?,Tutor,"2:55 PM, after tutoring ended.",I lost track of time.
+Easy 1,Easy,Same as above,Q9,Would you mind if we checked your bag?,Lawyer,Go ahead. Just legal documents.,I’d prefer a warrant.
+Easy 1,Easy,Same as above,Q9,Would you mind if we checked your bag?,Delivery Man,Sure—only packages inside.,I left it in my truck.
+Easy 1,Easy,Same as above,Q9,Would you mind if we checked your bag?,Doctor,It’s just medical supplies.,I don’t carry a bag.
+Easy 1,Easy,Same as above,Q9,Would you mind if we checked your bag?,Bystander,No problem—just my phone and keys.,I don’t have it with me.
+Easy 1,Easy,Same as above,Q9,Would you mind if we checked your bag?,Old Man,Check my satchel—just newspapers.,I don’t like people touching my things.
+Easy 1,Easy,Same as above,Q9,Would you mind if we checked your bag?,Bartender,Here’s my work bag—knives and napkins.,I didn’t bring one today.
+Easy 1,Easy,Same as above,Q9,Would you mind if we checked your bag?,Electrician,Tools only. Be careful.,I already emptied it.
+Easy 1,Easy,Same as above,Q9,Would you mind if we checked your bag?,Taxi Driver,Glovebox is open. Help yourself.,My bag’s private.
+Easy 1,Easy,Same as above,Q9,Would you mind if we checked your bag?,Tutor,Just books and graded papers.,I must’ve left it at home.
+Easy 2,Easy,A café’s front window was smashed at 10:30 PM last night. The owner heard glass shatter but only saw a shadow fleeing. A crowbar was left at the scene.,Q1,Where were you around 10:30 PM last night?,Lawyer,At home reviewing case files.,I was... taking a walk. Alone.
+Easy 2,Easy,Same as above,Q1,Where were you around 10:30 PM last night?,Delivery Man,Delivering a late-night order across town.,"I was near the café, but just passing by."
+Easy 2,Easy,Same as above,Q1,Where were you around 10:30 PM last night?,Doctor,At the hospital working a night shift.,"I stopped by the café earlier, not at 10:30."
+Easy 2,Easy,Same as above,Q1,Where were you around 10:30 PM last night?,Bystander,Watching a movie at my apartment.,I might’ve been near the café. It’s fuzzy.
+Easy 2,Easy,Same as above,Q1,Where were you around 10:30 PM last night?,Old Man,"Asleep by 9 PM, like always.","I was out for fresh air. My insomnia, you see."
+Easy 2,Easy,Same as above,Q1,Where were you around 10:30 PM last night?,Bartender,Closing up the bar—we shut at 10.,I left work early. No one saw me leave.
+Easy 2,Easy,Same as above,Q1,Where were you around 10:30 PM last night?,Electrician,Fixing wiring at a client’s house.,"I was in the area, but not near the café."
+Easy 2,Easy,Same as above,Q1,Where were you around 10:30 PM last night?,Taxi Driver,Driving my last fare of the night.,I parked near the café to take a break.
+Easy 2,Easy,Same as above,Q1,Where were you around 10:30 PM last night?,Tutor,Grading papers at my desk.,"I was... uh, visiting a friend nearby."
+Easy 2,Easy,Same as above,Q2,Do you have any injuries on your hands?,Lawyer,"No, I wear gloves when handling paperwork.",Just a paper cut. From earlier.
+Easy 2,Easy,Same as above,Q2,Do you have any injuries on your hands?,Delivery Man,"Calluses from lifting boxes, nothing fresh.",I scraped my knuckles fixing my bike.
+Easy 2,Easy,Same as above,Q2,Do you have any injuries on your hands?,Doctor,Sterile hands—I scrubbed in for surgery.,A cat scratched me this morning.
+Easy 2,Easy,Same as above,Q2,Do you have any injuries on your hands?,Bystander,"Nope, I moisturize daily.",I burned myself cooking yesterday.
+Easy 2,Easy,Same as above,Q2,Do you have any injuries on your hands?,Old Man,"Arthritis, but no new injuries.",My hands? Why do you ask?
+Easy 2,Easy,Same as above,Q2,Do you have any injuries on your hands?,Bartender,"Broken glass cuts sometimes, but not lately.",I bandaged a small cut. From a lemon.
+Easy 2,Easy,Same as above,Q2,Do you have any injuries on your hands?,Electrician,Wore work gloves all day.,I nicked myself on a screwdriver.
+Easy 2,Easy,Same as above,Q2,Do you have any injuries on your hands?,Taxi Driver,Clean hands—used hand sanitizer.,I cut myself shaving. My hands? Oh.
+Easy 2,Easy,Same as above,Q2,Do you have any injuries on your hands?,Tutor,"No, I’m careful with paper edges.",I... burned myself on a coffee cup.
+Easy 2,Easy,Same as above,Q3,Did you hear or see anything unusual?,Lawyer,"No, my apartment is soundproofed.","I heard a loud noise, but thought it was a car."
+Easy 2,Easy,Same as above,Q3,Did you hear or see anything unusual?,Delivery Man,Just traffic noises.,"I saw someone running, but didn’t get a look."
+Easy 2,Easy,Same as above,Q3,Did you hear or see anything unusual?,Doctor,"Hospital alarms, but nothing from the café.",I might’ve heard glass breaking. Maybe.
+Easy 2,Easy,Same as above,Q3,Did you hear or see anything unusual?,Bystander,My movie was too loud to hear anything.,Nope. Nothing at all.
+Easy 2,Easy,Same as above,Q3,Did you hear or see anything unusual?,Old Man,I’m a heavy sleeper.,"I heard a bang, but figured it was kids."
+Easy 2,Easy,Same as above,Q3,Did you hear or see anything unusual?,Bartender,My staff was cleaning glassware—noise is normal.,I was too tired to notice anything.
+Easy 2,Easy,Same as above,Q3,Did you hear or see anything unusual?,Electrician,Client’s dog was barking nonstop.,I don’t pay attention to noises.
+Easy 2,Easy,Same as above,Q3,Did you hear or see anything unusual?,Taxi Driver,Radio was on—didn’t hear anything.,I saw glass on the ground later.
+Easy 2,Easy,Same as above,Q3,Did you hear or see anything unusual?,Tutor,My neighbor’s TV was blaring.,"I thought I heard shouting, but ignored it."
+Easy 2,Easy,Same as above,Q4,What’s your relationship with the café owner?,Lawyer,I’ve never met them.,He sued me once. It’s resolved.
+Easy 2,Easy,Same as above,Q4,What’s your relationship with the café owner?,Delivery Man,I deliver their pastries weekly.,No relationship. Never been there.
+Easy 2,Easy,Same as above,Q4,What’s your relationship with the café owner?,Doctor,I treated their son for a broken arm.,I go there sometimes. Not friends.
+Easy 2,Easy,Same as above,Q4,What’s your relationship with the café owner?,Bystander,I’m a regular customer.,I don’t like their coffee. Too bitter.
+Easy 2,Easy,Same as above,Q4,What’s your relationship with the café owner?,Old Man,They give me free tea sometimes.,They banned me for loitering once.
+Easy 2,Easy,Same as above,Q4,What’s your relationship with the café owner?,Bartender,We’re in the same business—friendly.,I applied for a job there. Got rejected.
+Easy 2,Easy,Same as above,Q4,What’s your relationship with the café owner?,Electrician,Fixed their outlets last month.,They owe me money for repairs.
+Easy 2,Easy,Same as above,Q4,What’s your relationship with the café owner?,Taxi Driver,They call cabs for drunk customers.,I had a fight with their barista.
+Easy 2,Easy,Same as above,Q4,What’s your relationship with the café owner?,Tutor,I tutor their niece in math.,They accused me of stealing a tip once.
+Easy 2,Easy,Same as above,Q5,Can anyone confirm your whereabouts?,Lawyer,My assistant called me at 10:25 PM.,I live alone. No witnesses.
+Easy 2,Easy,Same as above,Q5,Can anyone confirm your whereabouts?,Delivery Man,The customer signed for the package.,I was alone in the van.
+Easy 2,Easy,Same as above,Q5,Can anyone confirm your whereabouts?,Doctor,The nurses’ station logs my hours.,I was on break. No one saw me.
+Easy 2,Easy,Same as above,Q5,Can anyone confirm your whereabouts?,Bystander,My roommate was home with me.,I don’t keep track of people.
+Easy 2,Easy,Same as above,Q5,Can anyone confirm your whereabouts?,Old Man,My cat was on my lap all night.,Who’d remember an old man?
+Easy 2,Easy,Same as above,Q5,Can anyone confirm your whereabouts?,Bartender,My staff clocked out with me.,I left alone. No cameras.
+Easy 2,Easy,Same as above,Q5,Can anyone confirm your whereabouts?,Electrician,The client has security cameras.,I didn’t log the job officially.
+Easy 2,Easy,Same as above,Q5,Can anyone confirm your whereabouts?,Taxi Driver,GPS logs my route.,My last fare paid cash. No record.
+Easy 2,Easy,Same as above,Q5,Can anyone confirm your whereabouts?,Tutor,My student’s parents saw me leave.,I didn’t see anyone I knew.
+Easy 2,Easy,Same as above,Q6,Have you ever been in trouble with the law?,Lawyer,I uphold the law for a living.,A speeding ticket years ago.
+Easy 2,Easy,Same as above,Q6,Have you ever been in trouble with the law?,Delivery Man,Clean record.,A bar fight in my 20s.
+Easy 2,Easy,Same as above,Q6,Have you ever been in trouble with the law?,Doctor,Never. Hippocratic Oath.,"A malpractice suit, but dismissed."
+Easy 2,Easy,Same as above,Q6,Have you ever been in trouble with the law?,Bystander,Not even a parking ticket.,I was arrested for protesting once.
+Easy 2,Easy,Same as above,Q6,Have you ever been in trouble with the law?,Old Man,"Back in my day, we respected cops.",A DUI decades ago.
+Easy 2,Easy,Same as above,Q6,Have you ever been in trouble with the law?,Bartender,Only for serving minors—mistakes happen.,A noise complaint last year.
+Easy 2,Easy,Same as above,Q6,Have you ever been in trouble with the law?,Electrician,"No, licensed and bonded.",A trespassing warning once.
+Easy 2,Easy,Same as above,Q6,Have you ever been in trouble with the law?,Taxi Driver,Spotless driving record.,A fare accused me of overcharging.
+Easy 2,Easy,Same as above,Q6,Have you ever been in trouble with the law?,Tutor,"No, background-checked for my job.",A neighbor filed a false complaint.
+Easy 2,Easy,Same as above,Q7,Do you know how to use a crowbar?,Lawyer,I’ve never held one.,I’ve used one to open crates.
+Easy 2,Easy,Same as above,Q7,Do you know how to use a crowbar?,Delivery Man,For prying open stuck truck doors.,I prefer bolt cutters.
+Easy 2,Easy,Same as above,Q7,Do you know how to use a crowbar?,Doctor,Only for medical equipment.,I’m handy. Could figure it out.
+Easy 2,Easy,Same as above,Q7,Do you know how to use a crowbar?,Bystander,"Nope, not my thing.",I’ve seen it done in movies.
+Easy 2,Easy,Same as above,Q7,Do you know how to use a crowbar?,Old Man,Back in my construction days.,Too old for that now.
+Easy 2,Easy,Same as above,Q7,Do you know how to use a crowbar?,Bartender,"For opening kegs, sure.",I’d just call a handyman.
+Easy 2,Easy,Same as above,Q7,Do you know how to use a crowbar?,Electrician,Standard tool for my job.,I use one daily. Why?
+Easy 2,Easy,Same as above,Q7,Do you know how to use a crowbar?,Taxi Driver,Changed a tire once with one.,I don’t mess with tools.
+Easy 2,Easy,Same as above,Q7,Do you know how to use a crowbar?,Tutor,I’m more of a books person.,I could if I had to.
+Easy 2,Easy,Same as above,Q8,Why were you in the area last night?,Lawyer,I live two blocks away.,I like night walks. Safe neighborhood.
+Easy 2,Easy,Same as above,Q8,Why were you in the area last night?,Delivery Man,Route takes me past the café.,I was hungry. Wanted a snack.
+Easy 2,Easy,Same as above,Q8,Why were you in the area last night?,Doctor,Hospital is nearby.,I was visiting a friend. They moved.
+Easy 2,Easy,Same as above,Q8,Why were you in the area last night?,Bystander,My apartment is next to the café.,I was meeting someone. They stood me up.
+Easy 2,Easy,Same as above,Q8,Why were you in the area last night?,Old Man,I feed the stray cats there.,The night air helps me sleep.
+Easy 2,Easy,Same as above,Q8,Why were you in the area last night?,Bartender,Bar’s around the corner.,I was avoiding my ex at work.
+Easy 2,Easy,Same as above,Q8,Why were you in the area last night?,Electrician,Client lives on that street.,I was looking for a 24-hour diner.
+Easy 2,Easy,Same as above,Q8,Why were you in the area last night?,Taxi Driver,Dropped off a fare nearby.,I was lost. GPS died.
+Easy 2,Easy,Same as above,Q8,Why were you in the area last night?,Tutor,Student lives above the café.,I was... just clearing my head.
+Easy 2,Easy,Same as above,Q9,Would you mind showing us your phone’s location history?,Lawyer,Here’s my Google Maps timeline.,I have location services off.
+Easy 2,Easy,Same as above,Q9,Would you mind showing us your phone’s location history?,Delivery Man,Company app tracks all deliveries.,My phone died last night.
+Easy 2,Easy,Same as above,Q9,Would you mind showing us your phone’s location history?,Doctor,Hospital security can pull my badge logs.,I don’t carry my phone at work.
+Easy 2,Easy,Same as above,Q9,Would you mind showing us your phone’s location history?,Bystander,Sure—here’s my Uber receipt.,I don’t use location apps.
+Easy 2,Easy,Same as above,Q9,Would you mind showing us your phone’s location history?,Old Man,I don’t own a smartphone.,My grandson handles that stuff.
+Easy 2,Easy,Same as above,Q9,Would you mind showing us your phone’s location history?,Bartender,Bar’s Wi-Fi logs my check-ins.,I reset my phone yesterday.
+Easy 2,Easy,Same as above,Q9,Would you mind showing us your phone’s location history?,Electrician,Job site GPS confirms my location.,I forgot my phone at home.
+Easy 2,Easy,Same as above,Q9,Would you mind showing us your phone’s location history?,Taxi Driver,Here’s my ride-hailing app history.,I use a burner phone for work.
+Easy 2,Easy,Same as above,Q9,Would you mind showing us your phone’s location history?,Tutor,My calendar shows tutoring sessions.,I privacy-lock my location data.
+Easy 3,Easy,"A prized diamond necklace was stolen from a locked display case at the local jewelry store during a power outage last night at 8:45 PM. The thief used glass-cutting tools, and a witness reported hearing a high-pitched whirring noise before the lights came back on.",Q1,Where were you around 8:45 PM last night?,Lawyer,At a client dinner—reservations confirm it.,I was... home alone. No one saw me.
+Easy 3,Easy,Same as above,Q1,Where were you around 8:45 PM last night?,Delivery Man,On a break at the depot—cameras show it.,"I was near the store, but just delivering a package."
+Easy 3,Easy,Same as above,Q1,Where were you around 8:45 PM last night?,Doctor,In surgery—ask the OR team.,I was driving home. No traffic cams caught me.
+Easy 3,Easy,Same as above,Q1,Where were you around 8:45 PM last night?,Bystander,At the gym—check my swipe card.,I was walking nearby. Didn’t see anything.
+Easy 3,Easy,Same as above,Q1,Where were you around 8:45 PM last night?,Old Man,Playing chess at the community center.,I was out for a stroll. Old habits.
+Easy 3,Easy,Same as above,Q1,Where were you around 8:45 PM last night?,Bartender,Setting up for trivia night—staff saw me.,I left early. No one noticed.
+Easy 3,Easy,Same as above,Q1,Where were you around 8:45 PM last night?,Electrician,Fixing a breaker box across town.,I was in the area... working late.
+Easy 3,Easy,Same as above,Q1,Where were you around 8:45 PM last night?,Taxi Driver,Dropping off a fare—GPS logs it.,I parked nearby to check my phone.
+Easy 3,Easy,Same as above,Q1,Where were you around 8:45 PM last night?,Tutor,Tutoring a student—parents alibi me.,I was... getting coffee. Alone.
+Easy 3,Easy,Same as above,Q2,Do you have experience with glass-cutting tools?,Lawyer,"No, I work with paper, not glass.",I’ve used them for... home projects.
+Easy 3,Easy,Same as above,Q2,Do you have experience with glass-cutting tools?,Delivery Man,Only breaking down cardboard boxes.,I tinker with stuff. Could figure it out.
+Easy 3,Easy,Same as above,Q2,Do you have experience with glass-cutting tools?,Doctor,Only surgical tools.,I took a glassblowing class once.
+Easy 3,Easy,Same as above,Q2,Do you have experience with glass-cutting tools?,Bystander,"Nope, not my skillset.",I’ve seen YouTube videos on it.
+Easy 3,Easy,Same as above,Q2,Do you have experience with glass-cutting tools?,Old Man,"Back in my day, we didn’t need fancy tools.",I used to repair windows. Long ago.
+Easy 3,Easy,Same as above,Q2,Do you have experience with glass-cutting tools?,Bartender,Just for opening bottles.,I’m not handy like that.
+Easy 3,Easy,Same as above,Q2,Do you have experience with glass-cutting tools?,Electrician,Only for wiring conduits.,I know my way around tools.
+Easy 3,Easy,Same as above,Q2,Do you have experience with glass-cutting tools?,Taxi Driver,Changed a windshield once.,I’d probably just smash it.
+Easy 3,Easy,Same as above,Q2,Do you have experience with glass-cutting tools?,Tutor,"I teach math, not shop class.",I could learn if I had to.
+Easy 3,Easy,Same as above,Q3,Did you hear any unusual noises last night?,Lawyer,"No, the restaurant was loud.",I thought it was construction.
+Easy 3,Easy,Same as above,Q3,Did you hear any unusual noises last night?,Delivery Man,Just truck engines idling.,"A weird buzzing, but I ignored it."
+Easy 3,Easy,Same as above,Q3,Did you hear any unusual noises last night?,Doctor,OR machines drown everything out.,I might’ve heard a drill-like sound.
+Easy 3,Easy,Same as above,Q3,Did you hear any unusual noises last night?,Bystander,Gym music was blasting.,Nope. Total silence.
+Easy 3,Easy,Same as above,Q3,Did you hear any unusual noises last night?,Old Man,My hearing aid was off.,A high-pitched whine. Probably tinnitus.
+Easy 3,Easy,Same as above,Q3,Did you hear any unusual noises last night?,Bartender,"Glasses clinking, as usual.",Too busy to notice.
+Easy 3,Easy,Same as above,Q3,Did you hear any unusual noises last night?,Electrician,Power tools make noise all day.,I’m used to weird sounds.
+Easy 3,Easy,Same as above,Q3,Did you hear any unusual noises last night?,Taxi Driver,Radio was on—missed it.,"I heard something, but didn’t look."
+Easy 3,Easy,Same as above,Q3,Did you hear any unusual noises last night?,Tutor,Student’s dog was barking.,I thought it was a car alarm.
+Easy 3,Easy,Same as above,Q4,Have you visited the jewelry store before?,Lawyer,"No, I buy watches online.",Once. Just browsing.
+Easy 3,Easy,Same as above,Q4,Have you visited the jewelry store before?,Delivery Man,Dropped off packages there.,Never been inside.
+Easy 3,Easy,Same as above,Q4,Have you visited the jewelry store before?,Doctor,Got my wife’s ring resized there.,I pass by it often.
+Easy 3,Easy,Same as above,Q4,Have you visited the jewelry store before?,Bystander,Window-shopping sometimes.,I don’t like crowded stores.
+Easy 3,Easy,Same as above,Q4,Have you visited the jewelry store before?,Old Man,Bought my late wife’s necklace there.,They overcharge. I avoid it.
+Easy 3,Easy,Same as above,Q4,Have you visited the jewelry store before?,Bartender,Bought cufflinks there once.,The owner’s rude. Never again.
+Easy 3,Easy,Same as above,Q4,Have you visited the jewelry store before?,Electrician,Fixed their security system last year.,They never paid me in full.
+Easy 3,Easy,Same as above,Q4,Have you visited the jewelry store before?,Taxi Driver,Drove the owner home once.,I don’t remember.
+Easy 3,Easy,Same as above,Q4,Have you visited the jewelry store before?,Tutor,"No, I don’t wear jewelry.",I went in... to ask for directions.
+Easy 3,Easy,Same as above,Q5,Do you own any power tools?,Lawyer,Just a stapler and paper shredder.,I have a drill... for home repairs.
+Easy 3,Easy,Same as above,Q5,Do you own any power tools?,Delivery Man,"Nope, just a box cutter.","A few, but they’re in storage."
+Easy 3,Easy,Same as above,Q5,Do you own any power tools?,Doctor,Only medical equipment.,"A Dremel, for hobbies."
+Easy 3,Easy,Same as above,Q5,Do you own any power tools?,Bystander,I rent tools if needed.,I borrowed one recently.
+Easy 3,Easy,Same as above,Q5,Do you own any power tools?,Old Man,My tools are from the ‘70s—manual.,I have an old rotary tool somewhere.
+Easy 3,Easy,Same as above,Q5,Do you own any power tools?,Bartender,Just a blender.,I don’t mess with that stuff.
+Easy 3,Easy,Same as above,Q5,Do you own any power tools?,Electrician,Of course—it’s my job.,Why? Are you accusing me?
+Easy 3,Easy,Same as above,Q5,Do you own any power tools?,Taxi Driver,A jump starter for my car.,I might have something in the trunk.
+Easy 3,Easy,Same as above,Q5,Do you own any power tools?,Tutor,"No, I’m not a DIY person.",I have a small toolkit. For emergencies.
+Easy 3,Easy,Same as above,Q6,Were you affected by the power outage?,Lawyer,"No, my building has a generator.",I... didn’t notice.
+Easy 3,Easy,Same as above,Q6,Were you affected by the power outage?,Delivery Man,Depot stayed lit—backup power.,My flashlight died. Weird timing.
+Easy 3,Easy,Same as above,Q6,Were you affected by the power outage?,Doctor,Hospital has emergency power.,I was in the elevator. Stuck briefly.
+Easy 3,Easy,Same as above,Q6,Were you affected by the power outage?,Bystander,Gym had lights the whole time.,My phone died. Annoying.
+Easy 3,Easy,Same as above,Q6,Were you affected by the power outage?,Old Man,Candles are always ready.,I tripped in the dark. Hurt my knee.
+Easy 3,Easy,Same as above,Q6,Were you affected by the power outage?,Bartender,Bar switched to battery lights.,I spilled a drink because of it.
+Easy 3,Easy,Same as above,Q6,Were you affected by the power outage?,Electrician,I was fixing outages elsewhere.,I had to reset my own breakers.
+Easy 3,Easy,Same as above,Q6,Were you affected by the power outage?,Taxi Driver,Car headlights worked fine.,My dash cam shut off.
+Easy 3,Easy,Same as above,Q6,Were you affected by the power outage?,Tutor,Student’s house had solar panels.,I dropped my books in the dark.
+Easy 3,Easy,Same as above,Q7,"Do you have any recent purchases over $1,000?",Lawyer,A new suit—receipt in my email.,I... bought stocks. No paper trail.
+Easy 3,Easy,Same as above,Q7,"Do you have any recent purchases over $1,000?",Delivery Man,New tires for my van.,I paid cash for a used TV.
+Easy 3,Easy,Same as above,Q7,"Do you have any recent purchases over $1,000?",Doctor,Medical conference tickets.,I donated to charity. Anonymous.
+Easy 3,Easy,Same as above,Q7,"Do you have any recent purchases over $1,000?",Bystander,Gym membership renewal.,I lost my receipts.
+Easy 3,Easy,Same as above,Q7,"Do you have any recent purchases over $1,000?",Old Man,Heating bill was high this winter.,I don’t spend like that anymore.
+Easy 3,Easy,Same as above,Q7,"Do you have any recent purchases over $1,000?",Bartender,New sound system for the bar.,I won some money gambling.
+Easy 3,Easy,Same as above,Q7,"Do you have any recent purchases over $1,000?",Electrician,Upgraded my toolset.,I paid off a loan. In cash.
+Easy 3,Easy,Same as above,Q7,"Do you have any recent purchases over $1,000?",Taxi Driver,New brakes last month.,I bought a watch. From a guy.
+Easy 3,Easy,Same as above,Q7,"Do you have any recent purchases over $1,000?",Tutor,Laptop for online lessons.,I lent money to a friend. No record.
+Easy 3,Easy,Same as above,Q8,Can anyone vouch for you during the outage?,Lawyer,My client and the waitstaff.,I was alone. No witnesses.
+Easy 3,Easy,Same as above,Q8,Can anyone vouch for you during the outage?,Delivery Man,Coworkers at the depot.,I was on break. No one around.
+Easy 3,Easy,Same as above,Q8,Can anyone vouch for you during the outage?,Doctor,The surgical team.,I stepped out. No one saw.
+Easy 3,Easy,Same as above,Q8,Can anyone vouch for you during the outage?,Bystander,Gym buddies and the front desk.,I keep to myself.
+Easy 3,Easy,Same as above,Q8,Can anyone vouch for you during the outage?,Old Man,Chess club members.,Who remembers an old man?
+Easy 3,Easy,Same as above,Q8,Can anyone vouch for you during the outage?,Bartender,Staff and regulars.,I snuck out early.
+Easy 3,Easy,Same as above,Q8,Can anyone vouch for you during the outage?,Electrician,The client I was helping.,I didn’t log the job.
+Easy 3,Easy,Same as above,Q8,Can anyone vouch for you during the outage?,Taxi Driver,My last fare—paid digitally.,Cash fare. No record.
+Easy 3,Easy,Same as above,Q8,Can anyone vouch for you during the outage?,Tutor,My student’s parents.,I didn’t see anyone.
+Easy 3,Easy,Same as above,Q9,Would you submit to a search of your belongings?,Lawyer,Only with a warrant present.,I... have private items.
+Easy 3,Easy,Same as above,Q9,Would you submit to a search of your belongings?,Delivery Man,Company van’s open for inspection.,I lost my keys yesterday.
+Easy 3,Easy,Same as above,Q9,Would you submit to a search of your belongings?,Doctor,Hospital lockers are secure.,My bag’s a mess. Medical supplies.
+Easy 3,Easy,Same as above,Q9,Would you submit to a search of your belongings?,Bystander,"Sure, nothing to hide.",I don’t like people touching my stuff.
+Easy 3,Easy,Same as above,Q9,Would you submit to a search of your belongings?,Old Man,My pockets are empty.,"Respect your elders, sonny."
+Easy 3,Easy,Same as above,Q9,Would you submit to a search of your belongings?,Bartender,Bar inventory’s logged anyway.,I misplaced my wallet.
+Easy 3,Easy,Same as above,Q9,Would you submit to a search of your belongings?,Electrician,Tools are in my truck. Help yourself.,I need a lawyer first.
+Easy 3,Easy,Same as above,Q9,Would you submit to a search of your belongings?,Taxi Driver,Glove compartment’s clean.,I don’t consent to searches.
+Easy 3,Easy,Same as above,Q9,Would you submit to a search of your belongings?,Tutor,My backpack’s just books.,I’d rather not. Privacy reasons.
+Medium 1,Medium,"Vincent Delacroix was drugged and robbed of a rare pocket watch. The safe was opened without force, and the security system was disabled manually. A neighbor saw a figure near the estate’s side gate at 11:30 PM.",Q1,Where were you between 11:00 PM and midnight last night?,Lawyer,At a late-night arbitration meeting—three colleagues can confirm.,"I was home alone, reviewing case files. My security system malfunctioned, so no footage."
+Medium 1,Medium,Same as above,Q1,Where were you between 11:00 PM and midnight last night?,Delivery Man,Stuck at the depot filling out accident reports after a fender-bender.,I finished my shift early. Drove around to clear my head—no GPS logs.
+Medium 1,Medium,Same as above,Q1,Where were you between 11:00 PM and midnight last night?,Doctor,At the hospital covering an emergency shift—check the staffing roster.,I was on-call but took a nap in my car. No one saw me.
+Medium 1,Medium,Same as above,Q1,Where were you between 11:00 PM and midnight last night?,Bystander,At an all-night diner with friends—here’s my receipt and their numbers.,"I went for a walk. My phone died, so no location history."
+Medium 1,Medium,Same as above,Q1,Where were you between 11:00 PM and midnight last night?,Old Man,"Asleep with my hearing aids out, per my doctor’s orders.","I was gardening under the moonlight. Strange habit, I know."
+Medium 1,Medium,Same as above,Q1,Where were you between 11:00 PM and midnight last night?,Bartender,Closing up—the bar’s security feed shows me until 12:30 AM.,I left early claiming a migraine. The cameras ‘conveniently’ glitched.
+Medium 1,Medium,Same as above,Q1,Where were you between 11:00 PM and midnight last night?,Electrician,Repairing faulty wiring at a 24-hour laundromat—owner’s my alibi.,I was ‘testing circuits’ near Delacroix’s neighborhood. No witnesses.
+Medium 1,Medium,Same as above,Q1,Where were you between 11:00 PM and midnight last night?,Taxi Driver,Drove a fare to the airport—here’s the digital receipt.,"My last ride paid cash. After that, I... took a scenic route."
+Medium 1,Medium,Same as above,Q1,Where were you between 11:00 PM and midnight last night?,Tutor,Grading papers at home—my student’s parents emailed me at 11:45 PM.,"I was tutoring online, but my webcam ‘accidentally’ shut off."
+Medium 1,Medium,Same as above,Q2,Do you have any medical knowledge about sedatives?,Lawyer,Only what I’ve read in malpractice cases.,I represented a pharmacist once. Learned a few things.
+Medium 1,Medium,Same as above,Q2,Do you have any medical knowledge about sedatives?,Delivery Man,"Nope, unless you count energy drinks.",My sister’s a nurse. She talks shop sometimes.
+Medium 1,Medium,Same as above,Q2,Do you have any medical knowledge about sedatives?,Doctor,I prescribe them daily—but never without consent.,"Hypothetically, I’d know how to dose tea to avoid suspicion."
+Medium 1,Medium,Same as above,Q2,Do you have any medical knowledge about sedatives?,Bystander,Just what I’ve seen on crime shows.,I read a lot of medical thrillers. For fun.
+Medium 1,Medium,Same as above,Q2,Do you have any medical knowledge about sedatives?,Old Man,"I take sleeping pills, but that’s all.","Back in my day, we knew how to handle... delicate situations."
+Medium 1,Medium,Same as above,Q2,Do you have any medical knowledge about sedatives?,Bartender,Rohypnol scares in bars—we’re trained to spot tampering.,You’d be surprised what dissolves in hot liquid.
+Medium 1,Medium,Same as above,Q2,Do you have any medical knowledge about sedatives?,Electrician,I know which chemicals NOT to mix.,I’ve wired clinics. Picked up terminology.
+Medium 1,Medium,Same as above,Q2,Do you have any medical knowledge about sedatives?,Taxi Driver,I drive med students—they joke about it.,A fare once left a... interesting pamphlet in my car.
+Medium 1,Medium,Same as above,Q2,Do you have any medical knowledge about sedatives?,Tutor,I tutor a pharmacology student.,"Organic chemistry’s close enough, right?"
+Medium 1,Medium,Same as above,Q3,Have you ever been inside Delacroix’s home?,Lawyer,"Yes, for a contract signing last month.",He hosted a party once. I barely remember the layout.
+Medium 1,Medium,Same as above,Q3,Have you ever been inside Delacroix’s home?,Delivery Man,Dropped off packages at the front door.,The maid let me in once to use the restroom.
+Medium 1,Medium,Same as above,Q3,Have you ever been inside Delacroix’s home?,Doctor,"No, but I treated his wife at the clinic.",He invited me for dinner to discuss a ‘donation.’ I declined.
+Medium 1,Medium,Same as above,Q3,Have you ever been inside Delacroix’s home?,Bystander,Went to a charity auction there last year.,I’ve admired the architecture from outside.
+Medium 1,Medium,Same as above,Q3,Have you ever been inside Delacroix’s home?,Old Man,We played chess in his garden shed.,He never let me past the foyer. Rude.
+Medium 1,Medium,Same as above,Q3,Have you ever been inside Delacroix’s home?,Bartender,"No, but he’s a regular at my bar.",I delivered a rare bottle to his study once.
+Medium 1,Medium,Same as above,Q3,Have you ever been inside Delacroix’s home?,Electrician,Installed his security system two years ago.,I ‘fixed’ a light in his study. Noticed the safe.
+Medium 1,Medium,Same as above,Q3,Have you ever been inside Delacroix’s home?,Taxi Driver,Drove him home drunk once. Waited in the driveway.,He tipped me to carry luggage inside. Glanced around.
+Medium 1,Medium,Same as above,Q3,Have you ever been inside Delacroix’s home?,Tutor,Tutored his niece in the library.,He interviewed me for a tutoring job. Hired someone else.
+Medium 1,Medium,Same as above,Q4,Do you know how to disable a security system?,Lawyer,"No, but I’ve sued companies for faulty systems.",I’ve read security manuals for a case. Hypothetically.
+Medium 1,Medium,Same as above,Q4,Do you know how to disable a security system?,Delivery Man,I can bypass a broken doorbell.,My cousin’s a locksmith. Taught me tricks.
+Medium 1,Medium,Same as above,Q4,Do you know how to disable a security system?,Doctor,Only how to silence hospital alarms.,I’m good with electronics. As a hobby.
+Medium 1,Medium,Same as above,Q4,Do you know how to disable a security system?,Bystander,I can unplug my router. That’s it.,I watch a lot of heist movies. For research.
+Medium 1,Medium,Same as above,Q4,Do you know how to disable a security system?,Old Man,"In my day, we just had guard dogs.",I tinkered with radios in the war. Similar principle.
+Medium 1,Medium,Same as above,Q4,Do you know how to disable a security system?,Bartender,We reset ours weekly. It’s not hard.,You learn things running a bar. Like which wires to cut.
+Medium 1,Medium,Same as above,Q4,Do you know how to disable a security system?,Electrician,"It’s my job to install them, not bypass them.",I could if I wanted to. But I’d never admit that.
+Medium 1,Medium,Same as above,Q4,Do you know how to disable a security system?,Taxi Driver,I hotwired a car in my 20s. Different skill.,I’ve driven security guys. They talk.
+Medium 1,Medium,Same as above,Q4,Do you know how to disable a security system?,Tutor,"I teach math, not hacking.",I tutored an engineering student. They shared... tips.
+Medium 1,Medium,Same as above,Q5,Did you notice anything unusual around the estate last night?,Lawyer,"No, but I live miles away.",A car idling nearby. Could’ve been anyone.
+Medium 1,Medium,Same as above,Q5,Did you notice anything unusual around the estate last night?,Delivery Man,Just the usual night traffic.,A figure in the bushes. Thought it was a cat.
+Medium 1,Medium,Same as above,Q5,Did you notice anything unusual around the estate last night?,Doctor,Ambulances are my usual ‘unusual.’,The streetlight near his gate was flickering. Odd timing.
+Medium 1,Medium,Same as above,Q5,Did you notice anything unusual around the estate last night?,Bystander,A dog barking nonstop. Normal for that area.,I avoid that street. Too many cameras.
+Medium 1,Medium,Same as above,Q5,Did you notice anything unusual around the estate last night?,Old Man,My owl statue went missing. Probably kids.,The side gate was ajar. I closed it.
+Medium 1,Medium,Same as above,Q5,Did you notice anything unusual around the estate last night?,Bartender,"Nothing, but I was busy pouring drinks.",A customer left in a hurry. Coincidence?
+Medium 1,Medium,Same as above,Q5,Did you notice anything unusual around the estate last night?,Electrician,Power surge in the neighborhood.,The security keypad looked tampered with. Huh.
+Medium 1,Medium,Same as above,Q5,Did you notice anything unusual around the estate last night?,Taxi Driver,A fare stiffed me near there. That’s it.,"Someone hailed me, then vanished. Sketchy."
+Medium 1,Medium,Same as above,Q5,Did you notice anything unusual around the estate last night?,Tutor,A student canceled last-minute. Unrelated.,I saw Delacroix’s maid arguing with someone.
+Medium 1,Medium,Same as above,Q6,What’s your opinion on Delacroix’s art collection?,Lawyer,"Legally acquired, per my research.","Overinsured. Suspicious, don’t you think?"
+Medium 1,Medium,Same as above,Q6,What’s your opinion on Delacroix’s art collection?,Delivery Man,Fragile. Always ‘handle with care’ labels.,He flaunts it. Rubs me the wrong way.
+Medium 1,Medium,Same as above,Q6,What’s your opinion on Delacroix’s art collection?,Doctor,His wife’s portrait is hauntingly beautiful.,Blood money. He underpaid artists.
+Medium 1,Medium,Same as above,Q6,What’s your opinion on Delacroix’s art collection?,Bystander,Cool to see at parties.,A waste. Could feed a thousand people.
+Medium 1,Medium,Same as above,Q6,What’s your opinion on Delacroix’s art collection?,Old Man,He has a Monet forgery. I’d bet my pension.,That watch belonged to my friend. Stolen first.
+Medium 1,Medium,Same as above,Q6,What’s your opinion on Delacroix’s art collection?,Bartender,The man drinks like a fish but has taste.,I’ve served richer guys. They’re all crooked.
+Medium 1,Medium,Same as above,Q6,What’s your opinion on Delacroix’s art collection?,Electrician,The frames are wired better than the house.,He bragged about the safe. Idiot.
+Medium 1,Medium,Same as above,Q6,What’s your opinion on Delacroix’s art collection?,Taxi Driver,Not my style. I like sports memorabilia.,He stiffed me on a fare once. Karma’s fair.
+Medium 1,Medium,Same as above,Q6,What’s your opinion on Delacroix’s art collection?,Tutor,History’s preserved in those pieces.,He bought a artifact my family lost in the war.
+Medium 1,Medium,Same as above,Q7,Were you alone between 11:00 PM and midnight?,Lawyer,"With colleagues until 11:30, then drove home alone.","I prefer solitude. Convenient, isn’t it?"
+Medium 1,Medium,Same as above,Q7,Were you alone between 11:00 PM and midnight?,Delivery Man,"Coworkers until 10:45, then solo paperwork.",I like night drives. No passengers.
+Medium 1,Medium,Same as above,Q7,Were you alone between 11:00 PM and midnight?,Doctor,Nurses rotated shifts. I was never unsupervised.,The on-call room was empty. Briefly.
+Medium 1,Medium,Same as above,Q7,Were you alone between 11:00 PM and midnight?,Bystander,"Diner staff saw me, but friends left at 11:20.",I... might’ve wandered off alone.
+Medium 1,Medium,Same as above,Q7,Were you alone between 11:00 PM and midnight?,Old Man,My cat keeps me company.,The night is my only friend.
+Medium 1,Medium,Same as above,Q7,Were you alone between 11:00 PM and midnight?,Bartender,"Staff until close, then counted tips alone.",I snuck out the back. No one noticed.
+Medium 1,Medium,Same as above,Q7,Were you alone between 11:00 PM and midnight?,Electrician,Laundromat owner popped in and out.,I ‘tested’ circuits in the dark. Alone.
+Medium 1,Medium,Same as above,Q7,Were you alone between 11:00 PM and midnight?,Taxi Driver,"Fare until 11:10, then radio chatter.",Silence is golden. And unverifiable.
+Medium 1,Medium,Same as above,Q7,Were you alone between 11:00 PM and midnight?,Tutor,Webcam was on until 11:50. Then... technical difficulties.,My alibi’s digital. And deletable.
+Medium 1,Medium,Same as above,Q8,Would you voluntarily provide fingerprints/DNA?,Lawyer,Only with a warrant. Standard practice.,I’ve had... incidents. My prints are compromised.
+Medium 1,Medium,Same as above,Q8,Would you voluntarily provide fingerprints/DNA?,Delivery Man,Sure. I’m in the system for my job anyway.,I cut my hand last week. Contaminated samples.
+Medium 1,Medium,Same as above,Q8,Would you voluntarily provide fingerprints/DNA?,Doctor,Gladly. I’m scrubbed in daily—clean record.,"Ethically, I can’t. Patient confidentiality risks."
+Medium 1,Medium,Same as above,Q8,Would you voluntarily provide fingerprints/DNA?,Bystander,Whatever helps. I’m innocent.,I don’t trust cops with my data.
+Medium 1,Medium,Same as above,Q8,Would you voluntarily provide fingerprints/DNA?,Old Man,Take my prints. I’ve nothing to hide.,"At my age, DNA degrades. Useless."
+Medium 1,Medium,Same as above,Q8,Would you voluntarily provide fingerprints/DNA?,Bartender,Fine. They’re on file from my liquor license.,I wear gloves when handling glass. No prints.
+Medium 1,Medium,Same as above,Q8,Would you voluntarily provide fingerprints/DNA?,Electrician,Wired police stations before. They have mine.,I work with latex gloves. Always.
+Medium 1,Medium,Same as above,Q8,Would you voluntarily provide fingerprints/DNA?,Taxi Driver,Sure. They’re all over my steering wheel.,I detail my car weekly. Wiped down.
+Medium 1,Medium,Same as above,Q8,Would you voluntarily provide fingerprints/DNA?,Tutor,If required. I’ve tutored cops’ kids.,I have a skin condition. Unreliable prints.
+Medium 1,Medium,Same as above,Q9,How well do you know Delacroix’s routines?,Lawyer,He works late. Our meetings were evenings.,He mentioned tea at 11. A... habit.
+Medium 1,Medium,Same as above,Q9,How well do you know Delacroix’s routines?,Delivery Man,He’s never home—always leave packages with the maid.,His maid told me he takes sleeping pills at 11:15.
+Medium 1,Medium,Same as above,Q9,How well do you know Delacroix’s routines?,Doctor,His wife said he’s nocturnal. Workaholic.,He boasted about his ‘unguarded’ midnight walks.
+Medium 1,Medium,Same as above,Q9,How well do you know Delacroix’s routines?,Bystander,He hosts parties monthly. That’s it.,His gardener gossips at the bar. Helpful.
+Medium 1,Medium,Same as above,Q9,How well do you know Delacroix’s routines?,Old Man,We play chess every Tuesday at 3 PM.,He walks his dog at 11. Lets the guard down.
+Medium 1,Medium,Same as above,Q9,How well do you know Delacroix’s routines?,Bartender,Drinks scotch at my bar every Friday.,He once slipped up about disabling his own alarms.
+Medium 1,Medium,Same as above,Q9,How well do you know Delacroix’s routines?,Electrician,Security systems have schedules. I’d know.,I may have... studied his habits. Professionally.
+Medium 1,Medium,Same as above,Q9,How well do you know Delacroix’s routines?,Taxi Driver,Drove him every Thursday to his club.,He talks in his sleep. Useful intel.
+Medium 1,Medium,Same as above,Q9,How well do you know Delacroix’s routines?,Tutor,His niece said he checks the safe nightly.,He interviewed me at midnight. Odd choice.
+Medium 2,Medium,"Chef Marco Bellini was locked in his freezer and died of hypothermia. His wrist was cut postmortem, and rare truffle oil is missing. Security footage was erased between 4-6 AM.",Q1,Where were you between 3:00 AM and 7:00 AM today?,Lawyer,At home drafting a contract—auto-save timestamps prove it.,I took a sleeping pill. Remember nothing after 2 AM.
+Medium 2,Medium,Same as above,Q1,Where were you between 3:00 AM and 6:00 AM today?,Delivery Man,Delivering pre-dawn bakery orders—route logs confirm.,My van broke down. I was... fixing it alone.
+Medium 2,Medium,Same as above,Q1,Where were you between 3:00 AM and 6:00 AM today?,Doctor,At the hospital finishing a double shift. Check the roster.,I clocked out early. Needed air.
+Medium 2,Medium,Same as above,Q1,Where were you between 3:00 AM and 6:00 AM today?,Bystander,Asleep—my fitness tracker shows no movement.,I went for a run. No witnesses at that hour.
+Medium 2,Medium,Same as above,Q1,Where were you between 3:00 AM and 6:00 AM today?,Old Man,Listening to late-night radio with my neighbor.,My hearing aid was off. Who knows?
+Medium 2,Medium,Same as above,Q1,Where were you between 3:00 AM and 6:00 AM today?,Bartender,Counting inventory after closing—staff can vouch.,I left early. Cameras ‘malfunctioned.’
+Medium 2,Medium,Same as above,Q1,Where were you between 3:00 AM and 6:00 AM today?,Electrician,Rewiring a 24-hour gym—manager signed my timesheet.,I was ‘testing’ a freezer unit... elsewhere.
+Medium 2,Medium,Same as above,Q1,Where were you between 3:00 AM and 6:00 AM today?,Taxi Driver,Driving a nurse to her shift—receipt here.,My dashcam died. ‘Coincidence.’
+Medium 2,Medium,Same as above,Q1,Where were you between 3:00 AM and 6:00 AM today?,Tutor,Prepping lessons—my laptop activity log shows it.,I was grading papers. Offline.
+Medium 2,Medium,Same as above,Q2,Do you have experience with commercial freezers?,Lawyer,Only when my fridge breaks. I call a repairman.,I sued an appliance company once. Learned the specs.
+Medium 2,Medium,Same as above,Q2,Do you have experience with commercial freezers?,Delivery Man,"I stock them, not fix them.",My uncle ran a butcher shop. Showed me the ropes.
+Medium 2,Medium,Same as above,Q2,Do you have experience with commercial freezers?,Doctor,"Hospital morgue units, technically.",Med school included cryogenics... briefly.
+Medium 2,Medium,Same as above,Q2,Do you have experience with commercial freezers?,Bystander,I defrost my mini-fridge. That’s it.,I worked at a grocery store in college. Maybe.
+Medium 2,Medium,Same as above,Q2,Do you have experience with commercial freezers?,Old Man,"Back in my day, we used iceboxes.",I repaired ships’ freezers in the navy. Long ago.
+Medium 2,Medium,Same as above,Q2,Do you have experience with commercial freezers?,Bartender,"Bar fridges, yes. Walk-ins? No.",You pick things up tending bar. Like... temperature controls.
+Medium 2,Medium,Same as above,Q2,Do you have experience with commercial freezers?,Electrician,I’ve wired them. Adjusting temps isn’t my job.,I could override a thermostat blindfolded.
+Medium 2,Medium,Same as above,Q2,Do you have experience with commercial freezers?,Taxi Driver,I keep my lunch cool. That’s it.,Drove a freezer repair guy once. Talkative.
+Medium 2,Medium,Same as above,Q2,Do you have experience with commercial freezers?,Tutor,I teach thermodynamics... theoretically.,"I failed chemistry. But freezers are basic, right?"
+Medium 2,Medium,Same as above,Q3,Were you aware of any conflicts involving Marco?,Lawyer,He was suing a supplier over spoiled ingredients.,He owed me legal fees. We ‘discussed’ it.
+Medium 2,Medium,Same as above,Q3,Were you aware of any conflicts involving Marco?,Delivery Man,He yelled at me once for a late delivery.,He banned me from the kitchen. Overreaction.
+Medium 2,Medium,Same as above,Q3,Were you aware of any conflicts involving Marco?,Doctor,His stress levels were concerning.,He refused to pay his wife’s medical bills.
+Medium 2,Medium,Same as above,Q3,Were you aware of any conflicts involving Marco?,Bystander,He fired a waiter publicly last week.,His truffle oil was fake. I told him I’d expose it.
+Medium 2,Medium,Same as above,Q3,Were you aware of any conflicts involving Marco?,Old Man,He mocked my vintage wine. Rude.,He bought my family’s stolen recipes. Never forgot.
+Medium 2,Medium,Same as above,Q3,Were you aware of any conflicts involving Marco?,Bartender,We argued over a cocktail recipe.,He stole my signature drink. No proof.
+Medium 2,Medium,Same as above,Q3,Were you aware of any conflicts involving Marco?,Electrician,He underpaid me for emergency repairs.,He threatened to report me for ‘shoddy work.’
+Medium 2,Medium,Same as above,Q3,Were you aware of any conflicts involving Marco?,Taxi Driver,Drove him during a screaming phone call.,He accused me of stealing his wallet. Liar.
+Medium 2,Medium,Same as above,Q3,Were you aware of any conflicts involving Marco?,Tutor,His son failed my class. He blamed me.,He promised me a job. Then ghosted.
+Medium 2,Medium,Same as above,Q4,Do you know how to erase security footage?,Lawyer,"No, but I’ve handled cases about it.",Discovery processes expose vulnerabilities.
+Medium 2,Medium,Same as above,Q4,Do you know how to erase security footage?,Delivery Man,I can barely work my phone camera.,My buddy does IT. Drunk talks.
+Medium 2,Medium,Same as above,Q4,Do you know how to erase security footage?,Doctor,Hospital systems are airtight.,I dated a tech once. Learned things.
+Medium 2,Medium,Same as above,Q4,Do you know how to erase security footage?,Bystander,I can delete Instagram posts. That’s it.,A guy at the gym brags about hacking.
+Medium 2,Medium,Same as above,Q4,Do you know how to erase security footage?,Old Man,I still use VHS.,"In the war, we erased... other things."
+Medium 2,Medium,Same as above,Q4,Do you know how to erase security footage?,Bartender,Our system auto-deletes after 48 hours.,You reset cameras the same way you reset routers.
+Medium 2,Medium,Same as above,Q4,Do you know how to erase security footage?,Electrician,I disable recorders to work safely.,It’s just wires and memory cards. Child’s play.
+Medium 2,Medium,Same as above,Q4,Do you know how to erase security footage?,Taxi Driver,My dashcam has a factory reset button.,Techs fix my cab all the time. I listen.
+Medium 2,Medium,Same as above,Q4,Do you know how to erase security footage?,Tutor,"I teach math, not coding.",A student bragged about hacking the school’s system.
+Medium 2,Medium,Same as above,Q5,Have you handled truffle oil before?,Lawyer,I’ve eaten it. Never purchased.,Marco gifted me a bottle. Lost it.
+Medium 2,Medium,Same as above,Q5,Have you handled truffle oil before?,Delivery Man,Delivered it to restaurants. Never opened any.,I ‘accidentally’ broke a bottle once. Marco went nuclear.
+Medium 2,Medium,Same as above,Q5,Have you handled truffle oil before?,Doctor,Medically? No. Culinary? Rarely.,Marco claimed it cured insomnia. Placebo nonsense.
+Medium 2,Medium,Same as above,Q5,Have you handled truffle oil before?,Bystander,I bought some once. Tasted fake.,I know his supplier. The oil’s cut with garbage.
+Medium 2,Medium,Same as above,Q5,Have you handled truffle oil before?,Old Man,I cook with it weekly. Traditional recipes.,He bought my vintage stash. Then ‘lost’ it.
+Medium 2,Medium,Same as above,Q5,Have you handled truffle oil before?,Bartender,We drizzle it on cocktails.,Marco ‘borrowed’ my reserve bottle. Never returned.
+Medium 2,Medium,Same as above,Q5,Have you handled truffle oil before?,Electrician,Not my thing. I’m a hot sauce guy.,I wired his pantry. Noticed the safe spot for it.
+Medium 2,Medium,Same as above,Q5,Have you handled truffle oil before?,Taxi Driver,Too fancy for my budget.,Drove a truffle dealer once. Smelled awful.
+Medium 2,Medium,Same as above,Q5,Have you handled truffle oil before?,Tutor,I’m more of a butter person.,His son gave me a bottle as a ‘thank you.’ Suspicious.
+Medium 2,Medium,Same as above,Q6,Did you notice anything odd at the restaurant recently?,Lawyer,The health inspector visited unannounced last week.,The freezer’s lock was jamming. Marco mentioned it.
+Medium 2,Medium,Same as above,Q6,Did you notice anything odd at the restaurant recently?,Delivery Man,A delivery door was left ajar Tuesday.,The security keypad looked... tampered with.
+Medium 2,Medium,Same as above,Q6,Did you notice anything odd at the restaurant recently?,Doctor,"Marco’s hands had fresh cuts. Knife slips, he said.",The dishwasher was crying when I left. Odd.
+Medium 2,Medium,Same as above,Q6,Did you notice anything odd at the restaurant recently?,Bystander,The usual drama. Chefs are temperamental.,A ‘repairman’ lingered too long near the cameras.
+Medium 2,Medium,Same as above,Q6,Did you notice anything odd at the restaurant recently?,Old Man,The wine cellar was rearranged. Sacrilege.,Marco’s usual night guard was ‘sick.’ Convenient.
+Medium 2,Medium,Same as above,Q6,Did you notice anything odd at the restaurant recently?,Bartender,He switched vodka brands. Cost-cutting.,The freezer alarm was disabled. I asked why.
+Medium 2,Medium,Same as above,Q6,Did you notice anything odd at the restaurant recently?,Electrician,Flickering lights. Probably bad wiring.,The back door’s lock was... too easy to pick.
+Medium 2,Medium,Same as above,Q6,Did you notice anything odd at the restaurant recently?,Taxi Driver,More takeout orders than usual.,A guy in a ski mask loitered. I drove off.
+Medium 2,Medium,Same as above,Q6,Did you notice anything odd at the restaurant recently?,Tutor,His son missed lessons. Said Marco was ‘distracted.’,The chef’s calendar had ‘ERASE’ circled. Weird.
+Medium 2,Medium,Same as above,Q7,Can you explain the postmortem wrist wound?,Lawyer,A desperate attempt to stage suicide.,"Rigor mortis makes wounds bleed differently, right?"
+Medium 2,Medium,Same as above,Q7,Can you explain the postmortem wrist wound?,Delivery Man,No idea. Maybe a knife slipped?,Dead bodies don’t bleed much. Common knowledge.
+Medium 2,Medium,Same as above,Q7,Can you explain the postmortem wrist wound?,Doctor,Lividity would contradict a living wound.,"Hypothetically, a shallow cut post-freezing wouldn’t bleed."
+Medium 2,Medium,Same as above,Q7,Can you explain the postmortem wrist wound?,Bystander,Sounds like a crime show plot.,Cold flesh cuts cleaner. Or so I’ve heard.
+Medium 2,Medium,Same as above,Q7,Can you explain the postmortem wrist wound?,Old Man,"In my day, killers weren’t this sloppy.",Frozen skin cracks differently. I’ve seen it.
+Medium 2,Medium,Same as above,Q7,Can you explain the postmortem wrist wound?,Bartender,Glass wounds bleed more. This wasn’t glass.,You’d use a serrated blade to mimic struggle.
+Medium 2,Medium,Same as above,Q7,Can you explain the postmortem wrist wound?,Electrician,"No clue. I work with wires, not bodies.",Metal tools leave distinct marks. Avoid them.
+Medium 2,Medium,Same as above,Q7,Can you explain the postmortem wrist wound?,Taxi Driver,Maybe he fought back too late?,Dead folks don’t spurt blood. Easy to fake.
+Medium 2,Medium,Same as above,Q7,Can you explain the postmortem wrist wound?,Tutor,Biology isn’t my subject.,Postmortem lacerations lack capillary action. Obviously.
+Medium 2,Medium,Same as above,Q8,Would you submit to a search of your home/workplace?,Lawyer,With a warrant. Standard procedure.,I ‘accidentally’ spilled bleach on my clothes last night.
+Medium 2,Medium,Same as above,Q8,Would you submit to a search of your home/workplace?,Delivery Man,Sure. My van’s messy but clean.,I detailed my van yesterday. Spotless.
+Medium 2,Medium,Same as above,Q8,Would you submit to a search of your home/workplace?,Doctor,Hospital lockers are searchable by policy.,My lab coat’s at the cleaners. Convenient.
+Medium 2,Medium,Same as above,Q8,Would you submit to a search of your home/workplace?,Bystander,Fine. I’ve got nothing to hide.,I ‘reorganized’ my kitchen this morning. Odd timing.
+Medium 2,Medium,Same as above,Q8,Would you submit to a search of your home/workplace?,Old Man,My house is a museum. Touch nothing.,I burned my trash last night. Routine.
+Medium 2,Medium,Same as above,Q8,Would you submit to a search of your home/workplace?,Bartender,Bar’s open for inspection.,I deep-cleaned the ice machine. No evidence.
+Medium 2,Medium,Same as above,Q8,Would you submit to a search of your home/workplace?,Electrician,My toolbox is open for inspection.,I ‘lost’ my gloves. Must’ve misplaced them.
+Medium 2,Medium,Same as above,Q8,Would you submit to a search of your home/workplace?,Taxi Driver,Check my cab. It’s a mess.,I shampooed the seats. Fresh scent.
+Medium 2,Medium,Same as above,Q8,Would you submit to a search of your home/workplace?,Tutor,My apartment’s tidy. Go ahead.,My hard drive crashed. Lost all files.
+Medium 2,Medium,Same as above,Q9,What’s your theory about the missing truffle oil?,Lawyer,Theft was the motive. Murder was cover-up.,Marco hid it. He didn’t trust anyone.
+Medium 2,Medium,Same as above,Q9,What’s your theory about the missing truffle oil?,Delivery Man,Someone stole it to sell on the black market.,It’s worthless. A decoy.
+Medium 2,Medium,Same as above,Q9,What’s your theory about the missing truffle oil?,Doctor,The oil was poisoned. Marco found out.,The ‘oil’ was a code name for something else.
+Medium 2,Medium,Same as above,Q9,What’s your theory about the missing truffle oil?,Bystander,Dramatic chefs love theatrics. It’s a red herring.,The killer took it as a trophy.
+Medium 2,Medium,Same as above,Q9,What’s your theory about the missing truffle oil?,Old Man,That oil was mine. He stole it first.,It’s still in the freezer. Hidden in the walls.
+Medium 2,Medium,Same as above,Q9,What’s your theory about the missing truffle oil?,Bartender,It’s in a cocktail somewhere. Marco’s last joke.,The ‘oil’ was a flash drive. Marco talked too much.
+Medium 2,Medium,Same as above,Q9,What’s your theory about the missing truffle oil?,Electrician,The bottle was used to smuggle something.,It’s in the ducts. I ‘fixed’ them recently.
+Medium 2,Medium,Same as above,Q9,What’s your theory about the missing truffle oil?,Taxi Driver,Some foodie paid big for it.,It’s in my glovebox. Kidding. Or am I?
+Medium 2,Medium,Same as above,Q9,What’s your theory about the missing truffle oil?,Tutor,The son took it. Sentimental value.,Marco gave it to me. But I ‘lost’ it.
+Medium 3,Medium,"Socialite Evelyn Rothschild was pushed from a sabotaged balcony at a gala. Her bracelet was stolen, but cash left behind. Security footage glitched during the argument.",Q1,Where were you around 10:30 PM during the gala?,Lawyer,At the bar discussing a client’s donation—three witnesses.,I stepped outside for ‘air.’ Alone.
+Medium 3,Medium,Same as above,Q1,Where were you around 10:30 PM during the gala?,Delivery Man,Refilling the buffet—staff logs confirm.,I took a break in the alley. No cameras.
+Medium 3,Medium,Same as above,Q1,Where were you around 10:30 PM during the gala?,Doctor,Treating a guest’s allergic reaction—medical logs.,I was in the restroom. No one saw me.
+Medium 3,Medium,Same as above,Q1,Where were you around 10:30 PM during the gala?,Bystander,Dancing near the band—photos timestamped.,I ‘lost’ my phone. Can’t prove it.
+Medium 3,Medium,Same as above,Q1,Where were you around 10:30 PM during the gala?,Old Man,At the cigar lounge—regulars saw me.,The balcony view was... tempting.
+Medium 3,Medium,Same as above,Q1,Where were you around 10:30 PM during the gala?,Bartender,Mixing drinks—guests remember my cocktails.,I ‘tripped’ and spilled a tray. Distraction.
+Medium 3,Medium,Same as above,Q1,Where were you around 10:30 PM during the gala?,Electrician,Fixing a light in the ballroom—manager’s alibi.,I ‘checked’ the balcony’s wiring earlier.
+Medium 3,Medium,Same as above,Q1,Where were you around 10:30 PM during the gala?,Taxi Driver,Parked outside waiting for a fare—GPS logs.,My dashcam ‘failed’ for 20 minutes.
+Medium 3,Medium,Same as above,Q1,Where were you around 10:30 PM during the gala?,Tutor,Chatting with the host about tutoring their kids.,I ‘slipped away’ to admire the art.
+Medium 3,Medium,Same as above,Q2,Do you know how to tamper with balcony railings?,Lawyer,I’ve sued contractors for faulty work. I know the signs.,I’ve read engineering reports. Hypothetically.
+Medium 3,Medium,Same as above,Q2,Do you know how to tamper with balcony railings?,Delivery Man,I tighten my truck’s bolts. That’s it.,My dad was a welder. Taught me tricks.
+Medium 3,Medium,Same as above,Q2,Do you know how to tamper with balcony railings?,Doctor,"I set bones, not loosen bolts.",Anatomy includes leverage points. Just saying.
+Medium 3,Medium,Same as above,Q2,Do you know how to tamper with balcony railings?,Bystander,I can barely hang a picture frame.,I watch home renovation shows. Educational.
+Medium 3,Medium,Same as above,Q2,Do you know how to tamper with balcony railings?,Old Man,I built my own porch in ‘78.,A few stripped bolts never hurt anyone.
+Medium 3,Medium,Same as above,Q2,Do you know how to tamper with balcony railings?,Bartender,I fix wobbly barstools. Different scale.,You learn things breaking up bar fights.
+Medium 3,Medium,Same as above,Q2,Do you know how to tamper with balcony railings?,Electrician,"I work with conduits, not railings.",Give me five minutes and a screwdriver.
+Medium 3,Medium,Same as above,Q2,Do you know how to tamper with balcony railings?,Taxi Driver,I change tires. Not my skill set.,I’ve jury-rigged a few things. Desperate times.
+Medium 3,Medium,Same as above,Q2,Do you know how to tamper with balcony railings?,Tutor,"I teach literature, not physics.","Archimedes said, ‘Give me a lever.’ Just quoting."
+Medium 3,Medium,Same as above,Q3,Why would someone take the bracelet but leave the cash?,Lawyer,The bracelet’s untraceable. Cash has serial numbers.,Evelyn’s will leaves the bracelet to... someone specific.
+Medium 3,Medium,Same as above,Q3,Why would someone take the bracelet but leave the cash?,Delivery Man,Bracelet’s flashier to sell on the black market.,The cash was a decoy. Too obvious.
+Medium 3,Medium,Same as above,Q3,Why would someone take the bracelet but leave the cash?,Doctor,Sentimental value. The cash was irrelevant.,The bracelet’s diamonds could be... repurposed medically.
+Medium 3,Medium,Same as above,Q3,Why would someone take the bracelet but leave the cash?,Bystander,"Maybe it was personal, not robbery.",The thief panicked. Grabbed what glittered.
+Medium 3,Medium,Same as above,Q3,Why would someone take the bracelet but leave the cash?,Old Man,That bracelet was my wife’s. Evelyn ‘borrowed’ it.,Cash is crass. Diamonds are forever.
+Medium 3,Medium,Same as above,Q3,Why would someone take the bracelet but leave the cash?,Bartender,Bracelet’s a status symbol. Cash is anonymous.,Ever tried fencing 10K? Risky.
+Medium 3,Medium,Same as above,Q3,Why would someone take the bracelet but leave the cash?,Electrician,Diamonds conduct electricity. Niche market.,The bracelet’s clasp was... faulty. Convenient.
+Medium 3,Medium,Same as above,Q3,Why would someone take the bracelet but leave the cash?,Taxi Driver,Easier to hide a bracelet in your pocket.,I’d never steal cash. Too low-class.
+Medium 3,Medium,Same as above,Q3,Why would someone take the bracelet but leave the cash?,Tutor,The bracelet had an inscription. Incriminating.,The thief wanted to send a message.
+Medium 3,Medium,Same as above,Q4,Did you notice anyone near the balcony earlier?,Lawyer,The host was smoking there at 9 PM. Harmless.,A ‘handyman’ lingered. Didn’t recognize them.
+Medium 3,Medium,Same as above,Q4,Did you notice anyone near the balcony earlier?,Delivery Man,Waiters kept adjusting the curtains. Normal.,Someone dropped a screw. Pretended not to notice.
+Medium 3,Medium,Same as above,Q4,Did you notice anyone near the balcony earlier?,Doctor,A couple was arguing quietly. Not Evelyn.,The electrician ‘tested’ the railing. Odd timing.
+Medium 3,Medium,Same as above,Q4,Did you notice anyone near the balcony earlier?,Bystander,Photographers kept blocking the view.,A waiter ‘cleaned’ the railing. Too thoroughly.
+Medium 3,Medium,Same as above,Q4,Did you notice anyone near the balcony earlier?,Old Man,I saw Evelyn there alone at 10. Looked upset.,The bartender ‘tripped’ into the railing earlier.
+Medium 3,Medium,Same as above,Q4,Did you notice anyone near the balcony earlier?,Bartender,Guests leaned on it all night. Standard.,The lawyer ‘inspected’ it. Claimed vertigo.
+Medium 3,Medium,Same as above,Q4,Did you notice anyone near the balcony earlier?,Electrician,I warned the host about loose bolts days ago.,The tutor ‘admired the view’ for too long.
+Medium 3,Medium,Same as above,Q4,Did you notice anyone near the balcony earlier?,Taxi Driver,Valet guys kept going in and out.,The delivery man ‘delivered’ a toolbox. Late.
+Medium 3,Medium,Same as above,Q4,Did you notice anyone near the balcony earlier?,Tutor,The host’s kids played near it. Reckless.,The doctor ‘checked’ the railing’s stability.
+Medium 3,Medium,Same as above,Q5,What’s your relationship with Evelyn?,Lawyer,I handled her divorce. It was amicable.,She owed me legal fees. ‘Forgot’ to pay.
+Medium 3,Medium,Same as above,Q5,What’s your relationship with Evelyn?,Delivery Man,Delivered her weekly flower arrangement.,She complained about ‘stolen’ packages. Lies.
+Medium 3,Medium,Same as above,Q5,What’s your relationship with Evelyn?,Doctor,I treated her for migraines. Professional.,She fired me for ‘overcharging.’ Audits proved otherwise.
+Medium 3,Medium,Same as above,Q5,What’s your relationship with Evelyn?,Bystander,We attended the same yoga class.,She got me kicked out of the club. Petty.
+Medium 3,Medium,Same as above,Q5,What’s your relationship with Evelyn?,Old Man,Her late husband was my friend.,She cut me out of his will. After promising.
+Medium 3,Medium,Same as above,Q5,What’s your relationship with Evelyn?,Bartender,She tipped well but was demanding.,She banned me from her events. Over a spilled drink.
+Medium 3,Medium,Same as above,Q5,What’s your relationship with Evelyn?,Electrician,Installed her chandelier. Overcharged me.,She refused to pay for ‘unnecessary’ repairs.
+Medium 3,Medium,Same as above,Q5,What’s your relationship with Evelyn?,Taxi Driver,Drove her twice. Rude both times.,She accused me of taking the scenic route. I did.
+Medium 3,Medium,Same as above,Q5,What’s your relationship with Evelyn?,Tutor,Taught her niece. Evelyn was never around.,She promised me a gallery connection. Lied.
+Medium 3,Medium,Same as above,Q6,Can you explain the ‘glitched’ security footage?,Lawyer,Corruption during automatic backup cycles. Common.,The host’s lawyer ‘reviewed’ the system earlier.
+Medium 3,Medium,Same as above,Q6,Can you explain the ‘glitched’ security footage?,Delivery Man,Maybe a power surge?,The electrician ‘fixed’ the cameras pre-gala.
+Medium 3,Medium,Same as above,Q6,Can you explain the ‘glitched’ security footage?,Doctor,EM interference from medical devices?,Someone used a jammer. Hypothetically.
+Medium 3,Medium,Same as above,Q6,Can you explain the ‘glitched’ security footage?,Bystander,Tech fails all the time.,I saw someone unplug a router. ‘Accidentally.’
+Medium 3,Medium,Same as above,Q6,Can you explain the ‘glitched’ security footage?,Old Man,"In my day, we had guards, not cameras.",The system ‘coincidentally’ updated at 10:25.
+Medium 3,Medium,Same as above,Q6,Can you explain the ‘glitched’ security footage?,Bartender,Alcohol and electronics don’t mix.,A ‘spilled’ drink fried the server. Oops.
+Medium 3,Medium,Same as above,Q6,Can you explain the ‘glitched’ security footage?,Electrician,I’d need to inspect the DVR.,A magnet in the right place could do it.
+Medium 3,Medium,Same as above,Q6,Can you explain the ‘glitched’ security footage?,Taxi Driver,Happens when storage is full.,I’ve driven tech guys. They brag about exploits.
+Medium 3,Medium,Same as above,Q6,Can you explain the ‘glitched’ security footage?,Tutor,Corrupted files during wireless transfer.,A student once hacked the school’s cameras. Just saying.
+Medium 3,Medium,Same as above,Q7,Would you know how to disable a security camera?,Lawyer,I’ve deposed experts on the topic.,A well-placed laser pointer can blind them.
+Medium 3,Medium,Same as above,Q7,Would you know how to disable a security camera?,Delivery Man,I’ve unplugged my doorbell camera. That’s it.,A delivery box blocks the view. Temporarily.
+Medium 3,Medium,Same as above,Q7,Would you know how to disable a security camera?,Doctor,Only if it’s a medical device.,Infrared overloads sensors. Theoretically.
+Medium 3,Medium,Same as above,Q7,Would you know how to disable a security camera?,Bystander,I’ve seen it in movies. Spray paint?,A bright flashlight at the right angle...
+Medium 3,Medium,Same as above,Q7,Would you know how to disable a security camera?,Old Man,I just smile for them.,"Back in my day, a hammer worked fine."
+Medium 3,Medium,Same as above,Q7,Would you know how to disable a security camera?,Bartender,Our cameras ‘malfunction’ when the AC kicks on.,A cocktail umbrella blocks the lens. Briefly.
+Medium 3,Medium,Same as above,Q7,Would you know how to disable a security camera?,Electrician,I’d reroute the wiring. Professionally.,Cut the backup power first. Standard procedure.
+Medium 3,Medium,Same as above,Q7,Would you know how to disable a security camera?,Taxi Driver,I’ve driven guys who ‘fix’ cameras. Talkative.,A fuse ‘accidentally’ blows. Who knows?
+Medium 3,Medium,Same as above,Q7,Would you know how to disable a security camera?,Tutor,I teach ethics. The irony.,A student’s science project could interfere.
+Medium 3,Medium,Same as above,Q8,Why was the screwdriver left behind?,Lawyer,The killer panicked and forgot it.,A ‘planted’ tool to frame someone.
+Medium 3,Medium,Same as above,Q8,Why was the screwdriver left behind?,Delivery Man,Maybe it fell out of a maintenance kit.,Wiped clean. No prints.
+Medium 3,Medium,Same as above,Q8,Why was the screwdriver left behind?,Doctor,It’s a common brand. Hard to trace.,The handle’s textured. Gloves would slip.
+Medium 3,Medium,Same as above,Q8,Why was the screwdriver left behind?,Bystander,Someone was framed. Obviously.,It’s a decoy. The real tool’s missing.
+Medium 3,Medium,Same as above,Q8,Why was the screwdriver left behind?,Old Man,Amateurs. I’d never leave evidence.,The screwdriver’s mine. But I ‘lost’ it weeks ago.
+Medium 3,Medium,Same as above,Q8,Why was the screwdriver left behind?,Bartender,Too many fingerprints to pin it.,It’s from my bar’s toolkit. ‘Borrowed.’
+Medium 3,Medium,Same as above,Q8,Why was the screwdriver left behind?,Electrician,A cheap brand. Untraceable.,I ‘dropped’ it earlier. Convenient.
+Medium 3,Medium,Same as above,Q8,Why was the screwdriver left behind?,Taxi Driver,Probably stolen from a handyman’s car.,I keep one in my glovebox. Not anymore.
+Medium 3,Medium,Same as above,Q8,Why was the screwdriver left behind?,Tutor,Overconfidence. A killer’s mistake.,It’s a common tutor tool. For... science projects.
+Medium 3,Medium,Same as above,Q9,Who benefits most from Evelyn’s death?,Lawyer,Her ex-husband regains control of the trust fund.,Her ‘missing’ bracelet beneficiary. Guess who?
+Medium 3,Medium,Same as above,Q9,Who benefits most from Evelyn’s death?,Delivery Man,The charity inherits her estate.,The person who ‘found’ the bracelet first.
+Medium 3,Medium,Same as above,Q9,Who benefits most from Evelyn’s death?,Doctor,Her clinic donations stop. No one wins.,Her plastic surgeon. She owed him six figures.
+Medium 3,Medium,Same as above,Q9,Who benefits most from Evelyn’s death?,Bystander,Her sister takes over the gallery.,The host. Evelyn was blackmailing them.
+Medium 3,Medium,Same as above,Q9,Who benefits most from Evelyn’s death?,Old Man,I do. She ‘borrowed’ my wife’s jewels.,The lawyer. He drafted a shady codicil.
+Medium 3,Medium,Same as above,Q9,Who benefits most from Evelyn’s death?,Bartender,Her rival socialite takes her spot.,The waiter she fired. He’s the host’s nephew.
+Medium 3,Medium,Same as above,Q9,Who benefits most from Evelyn’s death?,Electrician,No one. She stiffed everyone equally.,The delivery man. She blocked his promotion.
+Medium 3,Medium,Same as above,Q9,Who benefits most from Evelyn’s death?,Taxi Driver,Her chauffeur gets unemployment.,The tutor. She ‘donated’ his stolen research.
+Medium 3,Medium,Same as above,Q9,Who benefits most from Evelyn’s death?,Tutor,Her niece gets a larger inheritance.,The doctor. She knew about his malpractice.
+Hard 1,Hard,"Tech billionaire Liam Arkwright was murdered via poisoned insulin pump. His AI security was disabled, and a research drive is missing. The killer needed insider knowledge.",Q1,Where were you between 12:00 AM and 2:00 AM?,Lawyer,At my office finalizing Arkwright’s will—IT logs show my workstation active.,I was en route to his home per his call. Arrived after the murder.
+Hard 1,Hard,Same as above,Q1,Where were you between 12:00 AM and 2:00 AM?,Delivery Man,Delivering medical supplies to the 24-hour clinic—GPS and recipient signatures.,My tracker glitched. I was ‘rerouted’ near Arkwright’s neighborhood.
+Hard 1,Hard,Same as above,Q1,Where were you between 12:00 AM and 2:00 AM?,Doctor,At the hospital administering TTX antidote trials—research team can confirm.,I left briefly to ‘check on a private patient.’ No records.
+Hard 1,Hard,Same as above,Q1,Where were you between 12:00 AM and 2:00 AM?,Bystander,Streaming a movie marathon—ISP logs and chat messages timestamped.,My VPN malfunctioned. No digital footprint for 73 minutes.
+Hard 1,Hard,Same as above,Q1,Where were you between 12:00 AM and 2:00 AM?,Old Man,Asleep with my medical alert pendant active—no triggers logged.,I take midnight walks. The cameras in my building are outdated.
+Hard 1,Hard,Same as above,Q1,Where were you between 12:00 AM and 2:00 AM?,Bartender,Closing the bar—staff and security footage confirm until 2:30 AM.,I ‘stepped out’ to handle a liquor delivery. Alone.
+Hard 1,Hard,Same as above,Q1,Where were you between 12:00 AM and 2:00 AM?,Electrician,Repairing emergency lights at the marina—work order and supervisor.,I was ‘called away’ to fix Arkwright’s gate. No paper trail.
+Hard 1,Hard,Same as above,Q1,Where were you between 12:00 AM and 2:00 AM?,Taxi Driver,Off-duty; my car was in the shop—mechanic’s invoice and Uber receipts.,I drove a ‘regular’ who pays cash. No app record.
+Hard 1,Hard,Same as above,Q1,Where were you between 12:00 AM and 2:00 AM?,Tutor,Teaching an online class—Zoom recordings and student attendance.,My internet ‘dropped’ during office hours. Unreachable.
+Hard 1,Hard,Same as above,Q2,How would you access Arkwright’s insulin pump?,Lawyer,"I’d need his medical power of attorney, which I didn’t have.",His biometric unlock was tied to his will. I helped draft the clauses.
+Hard 1,Hard,Same as above,Q2,How would you access Arkwright’s insulin pump?,Delivery Man,"Zero clue. I deliver packages, not hack medical devices.",The clinic I delivered to earlier? They use the same pump model.
+Hard 1,Hard,Same as above,Q2,How would you access Arkwright’s insulin pump?,Doctor,"Hospital-grade override, but it leaves an audit trail.",A clinical trial I oversaw tested remote pump updates. Hypothetically.
+Hard 1,Hard,Same as above,Q2,How would you access Arkwright’s insulin pump?,Bystander,I’m not even sure what an insulin pump looks like.,I researched it after my diagnosis last year. Purely academic.
+Hard 1,Hard,Same as above,Q2,How would you access Arkwright’s insulin pump?,Old Man,Mine’s the older model. His was encrypted.,His assistant once asked me to ‘test’ his backup pump. Briefly.
+Hard 1,Hard,Same as above,Q2,How would you access Arkwright’s insulin pump?,Bartender,You’d need his phone or a doctor’s credentials.,A regular at my bar codes medical devices. We talk shop.
+Hard 1,Hard,Same as above,Q2,How would you access Arkwright’s insulin pump?,Electrician,"I wire buildings, not bodies.",The marina job involved a biotech lab. I picked up terminology.
+Hard 1,Hard,Same as above,Q2,How would you access Arkwright’s insulin pump?,Taxi Driver,"No idea. I drive cars, not troubleshoot tech.",A fare left a medical manual in my backseat. I skimmed it.
+Hard 1,Hard,Same as above,Q2,How would you access Arkwright’s insulin pump?,Tutor,I teach literature. Biology isn’t my field.,A student’s thesis was on medical IoT vulnerabilities. Fascinating read.
+Hard 1,Hard,Same as above,Q3,Could you disable Arkwright’s AI security system?,Lawyer,Only with his biometrics or a court order.,The will included a ‘legacy protocol’ to bypass safeguards. My suggestion.
+Hard 1,Hard,Same as above,Q3,Could you disable Arkwright’s AI security system?,Delivery Man,I can barely reset my router.,The clinic’s security system uses the same vendor. I’ve seen the techs work.
+Hard 1,Hard,Same as above,Q3,Could you disable Arkwright’s AI security system?,Doctor,"I specialize in medicine, not cybersecurity.",The hospital’s AI runs on his software. I’ve seen the fail-safes.
+Hard 1,Hard,Same as above,Q3,Could you disable Arkwright’s AI security system?,Bystander,Not without triggering alarms.,I beta-tested his home app. There’s a debug mode.
+Hard 1,Hard,Same as above,Q3,Could you disable Arkwright’s AI security system?,Old Man,I still use a landline.,His system had a backdoor for ‘family.’ I’m listed as emergency contact.
+Hard 1,Hard,Same as above,Q3,Could you disable Arkwright’s AI security system?,Bartender,Our bar’s system is from the 90s.,A regular works for his security vendor. Drinks loosen tongues.
+Hard 1,Hard,Same as above,Q3,Could you disable Arkwright’s AI security system?,Electrician,"I could cut power, but backup generators would engage.",The marina job required disabling an AI firewall. Similar principles.
+Hard 1,Hard,Same as above,Q3,Could you disable Arkwright’s AI security system?,Taxi Driver,I can’t even parallel park without sensors.,A fare explained how to jam signals. For ‘privacy.’
+Hard 1,Hard,Same as above,Q3,Could you disable Arkwright’s AI security system?,Tutor,I can disable pop-up ads. That’s it.,A student demonstrated AI spoofing for a project. Hypothetically.
+Hard 1,Hard,Same as above,Q4,Why would someone take the research drive but leave valuables?,Lawyer,The AI algorithm was worth billions. Jewelry is traceable.,The drive contained incriminating data. I’d know—I filed the patents.
+Hard 1,Hard,Same as above,Q4,Why would someone take the research drive but leave valuables?,Delivery Man,Who steals research? Maybe it was misplaced.,The drive’s case is identical to our med delivery lockboxes. Easy swap.
+Hard 1,Hard,Same as above,Q4,Why would someone take the research drive but leave valuables?,Doctor,Intellectual property is harder to trace than gems.,The research could weaponize medical tech. I’ve warned against it.
+Hard 1,Hard,Same as above,Q4,Why would someone take the research drive but leave valuables?,Bystander,Blackmail material? I watch too many thrillers.,The drive’s encryption matched a password I’d seen him use.
+Hard 1,Hard,Same as above,Q4,Why would someone take the research drive but leave valuables?,Old Man,His will stipulates the research goes to his rival. My guess.,I recognized the drive’s casing. His late wife gave me one.
+Hard 1,Hard,Same as above,Q4,Why would someone take the research drive but leave valuables?,Bartender,Tech guys care more about code than cash.,A regular bid on that algorithm. Arkwright refused to sell.
+Hard 1,Hard,Same as above,Q4,Why would someone take the research drive but leave valuables?,Electrician,Data’s the new gold. Everyone knows that.,The drive’s serial matched one I’d ‘repaired’ last week.
+Hard 1,Hard,Same as above,Q4,Why would someone take the research drive but leave valuables?,Taxi Driver,No idea. Maybe it was personal.,A fare offered me six figures for ‘retrieval services.’ I declined.
+Hard 1,Hard,Same as above,Q4,Why would someone take the research drive but leave valuables?,Tutor,His student claimed Arkwright stole their thesis.,The drive’s encryption key was in a poem I taught last semester.
+Hard 1,Hard,Same as above,Q5,What’s your connection to the marine lab that produced the TTX?,Lawyer,I reviewed their liability waivers. Arkwright insisted on airtight clauses.,The lab’s director is my client. We discussed ‘supply chain risks.’
+Hard 1,Hard,Same as above,Q5,What’s your connection to the marine lab that produced the TTX?,Delivery Man,I deliver their lab supplies every Thursday.,The TTX shipment was ‘misplaced’ last month. Never found.
+Hard 1,Hard,Same as above,Q5,What’s your connection to the marine lab that produced the TTX?,Doctor,I collaborated on their antidote trials.,The lab’s TTX purity logs were altered. I noticed during peer review.
+Hard 1,Hard,Same as above,Q5,What’s your connection to the marine lab that produced the TTX?,Bystander,I took a tour once. Pretty fish.,My cousin works there. She mentioned ‘missing’ vials.
+Hard 1,Hard,Same as above,Q5,What’s your connection to the marine lab that produced the TTX?,Old Man,I donated to their conservation fund.,Arkright’s TTX was a ‘gift’ to me. For pain management.
+Hard 1,Hard,Same as above,Q5,What’s your connection to the marine lab that produced the TTX?,Bartender,They host fundraisers at my bar.,A researcher paid cash for silence. I didn’t ask why.
+Hard 1,Hard,Same as above,Q5,What’s your connection to the marine lab that produced the TTX?,Electrician,I wired their quarantine tanks last year.,The lab’s freezer had a ‘malfunction.’ Coincidentally.
+Hard 1,Hard,Same as above,Q5,What’s your connection to the marine lab that produced the TTX?,Taxi Driver,Drove a scientist home once. She tipped well.,A fare left a cooler in my trunk. It’s still there.
+Hard 1,Hard,Same as above,Q5,What’s your connection to the marine lab that produced the TTX?,Tutor,I tutored their interns in scientific writing.,A student’s thesis cited TTX stability under insulin pump conditions.
+Hard 1,Hard,Same as above,Q6,Who else had access to Arkwright’s DNA vault?,Lawyer,"His biotech team, per the access logs I notarized.",The vault’s backup key was held by his lawyer. Me.
+Hard 1,Hard,Same as above,Q6,Who else had access to Arkwright’s DNA vault?,Delivery Man,No idea. I just drop stuff off.,The vault’s delivery slot fits our medical packages. Tested once.
+Hard 1,Hard,Same as above,Q6,Who else had access to Arkwright’s DNA vault?,Doctor,Only those with his genetic markers or a court order.,His medical records included a DNA sample. I accessed them legally.
+Hard 1,Hard,Same as above,Q6,Who else had access to Arkwright’s DNA vault?,Bystander,Sounds like sci-fi. I’m lost.,His housekeeper mentioned a ‘spare’ entry method. Wine and gossip.
+Hard 1,Hard,Same as above,Q6,Who else had access to Arkwright’s DNA vault?,Old Man,He stored my DNA decades ago for ‘family legacy’ projects.,The vault accepts saliva samples. I still have his toothbrush.
+Hard 1,Hard,Same as above,Q6,Who else had access to Arkwright’s DNA vault?,Bartender,Rich people stuff. Not my scene.,A regular joked about cloning Arkwright from a napkin. Ha.
+Hard 1,Hard,Same as above,Q6,Who else had access to Arkwright’s DNA vault?,Electrician,I’d need schematics to even guess.,The vault’s power supply is on a timed circuit. I installed it.
+Hard 1,Hard,Same as above,Q6,Who else had access to Arkwright’s DNA vault?,Taxi Driver,No clue. My car doesn’t even have GPS.,A fare bragged about bypassing DNA scanners. I tuned him out.
+Hard 1,Hard,Same as above,Q6,Who else had access to Arkwright’s DNA vault?,Tutor,Biology isn’t my subject.,A student’s paper discussed epigenetic triggers in security systems.
+Hard 1,Hard,Same as above,Q7,Did Arkwright have any recent disputes?,Lawyer,He was litigating three patent infringements. Standard for him.,His ex-partner threatened him over the AI algorithm. I mediated.
+Hard 1,Hard,Same as above,Q7,Did Arkwright have any recent disputes?,Delivery Man,He yelled about a delayed package once. Normal rich-people stuff.,The clinic refused his insulin pump order. I ‘lost’ the paperwork.
+Hard 1,Hard,Same as above,Q7,Did Arkwright have any recent disputes?,Doctor,He opposed FDA regulations on AI-assisted medicine.,He sued my hospital for ‘stealing’ his research. Baseless.
+Hard 1,Hard,Same as above,Q7,Did Arkwright have any recent disputes?,Bystander,He argued with a guy at the gym about crypto.,His neighbor filed noise complaints. I witnessed one.
+Hard 1,Hard,Same as above,Q7,Did Arkwright have any recent disputes?,Old Man,He cut funding to my veterans’ charity. Petty.,We disagreed on his father’s estate. He reneged on promises.
+Hard 1,Hard,Same as above,Q7,Did Arkwright have any recent disputes?,Bartender,He banned a reporter from his events.,A regular claimed Arkwright ruined his startup. Vowed revenge.
+Hard 1,Hard,Same as above,Q7,Did Arkwright have any recent disputes?,Electrician,He refused to pay for emergency repairs. Claimed ‘sabotage.’,The marina job was his rival’s project. He tried to block it.
+Hard 1,Hard,Same as above,Q7,Did Arkwright have any recent disputes?,Taxi Driver,He stiffed me on a fare once.,A fare ranted about Arkwright stealing his invention. I ignored it.
+Hard 1,Hard,Same as above,Q7,Did Arkwright have any recent disputes?,Tutor,His son plagiarized a paper. I flunked him.,A student’s parent accused him of intellectual theft. Violently.
+Hard 1,Hard,Same as above,Q8,Could the killer have acted alone?,Lawyer,The complexity suggests collaboration.,The will’s ‘legacy protocol’ required two signatures. Mine and his.
+Hard 1,Hard,Same as above,Q8,Could the killer have acted alone?,Delivery Man,Doubt it. Too many systems to hack.,The clinic’s delivery required dual authentication. I signed for a partner.
+Hard 1,Hard,Same as above,Q8,Could the killer have acted alone?,Doctor,TTX dosing requires medical precision.,The antidote trial data was accessed twice that night. By two logins.
+Hard 1,Hard,Same as above,Q8,Could the killer have acted alone?,Bystander,No way. This feels like a heist movie.,His housekeeper mentioned ‘two voices’ arguing. I brushed it off.
+Hard 1,Hard,Same as above,Q8,Could the killer have acted alone?,Old Man,I’ve seen conspiracies unfold. This reeks of teamwork.,The vault’s backup key was split. I have half. Someone has the rest.
+Hard 1,Hard,Same as above,Q8,Could the killer have acted alone?,Bartender,"Poison’s a solo act, but the tech stuff? Nah.",Two regulars were absent that night. Brothers in IT security.
+Hard 1,Hard,Same as above,Q8,Could the killer have acted alone?,Electrician,The AI system had dual failsafes. One person couldn’t bypass both.,The marina’s wiring job required two electricians. I vouched for my ‘apprentice.’
+Hard 1,Hard,Same as above,Q8,Could the killer have acted alone?,Taxi Driver,I drive solo. Crime’s probably the same.,Two fares argued about ‘dividing shares’ that night. Odd phrasing.
+Hard 1,Hard,Same as above,Q8,Could the killer have acted alone?,Tutor,Plagiarism takes two: the thief and the enabler.,Two students dropped my class after asking about AI ethics. Suspicious.
+Hard 1,Hard,Same as above,Q9,Who stands to gain from Arkwright’s AI research disappearing?,Lawyer,"His competitors, but the patents are ironclad.",The ex-partner he litigated against. The will’s ‘void’ clause benefits them.
+Hard 1,Hard,Same as above,Q9,Who stands to gain from Arkwright’s AI research disappearing?,Delivery Man,No idea. Maybe a rival company?,The clinic’s owner also runs a biotech firm. Competitor.
+Hard 1,Hard,Same as above,Q9,Who stands to gain from Arkwright’s AI research disappearing?,Doctor,"Humanity, if the tech was dangerous. My oath compels me to act.",The hospital’s research board. They’d monetize it ‘ethically.’
+Hard 1,Hard,Same as above,Q9,Who stands to gain from Arkwright’s AI research disappearing?,Bystander,Someone who hates robots?,His neighbor’s startup was crushed by Arkwright’s patents.
+Hard 1,Hard,Same as above,Q9,Who stands to gain from Arkwright’s AI research disappearing?,Old Man,His father’s trust fund reverts if the research is ‘lost.’ I’m the executor.,The marine lab. Their funding was tied to his approval.
+Hard 1,Hard,Same as above,Q9,Who stands to gain from Arkwright’s AI research disappearing?,Bartender,The tech bros who buy rounds at my bar.,A regular’s hedge fund shorted Arkwright’s stock. Perfect timing.
+Hard 1,Hard,Same as above,Q9,Who stands to gain from Arkwright’s AI research disappearing?,Electrician,The marina’s investor. Arkwright blocked their AI patent.,My ‘apprentice’ works for a rival firm. Odd coincidence.
+Hard 1,Hard,Same as above,Q9,Who stands to gain from Arkwright’s AI research disappearing?,Taxi Driver,Big Pharma? I drive conspiracy theorists.,A fare offered me stock tips the day before Arkwright died.
+Hard 1,Hard,Same as above,Q9,Who stands to gain from Arkwright’s AI research disappearing?,Tutor,The student who accused him of theft. Their lawsuit vanishes.,The university’s endowment. They ‘acquired’ his research posthumously.
+Hard 2,Hard,"Psychologist Dr. Evelyn Grayson and assistant Daniel Lin were murdered in her locked office. Deaths were staged, sedatives were involved, and research was deleted.",Q1,Where were you between 8:00 PM and 10:00 PM?,Lawyer,At a mediation session—client and secretary can confirm.,"I was reviewing Dr. Grayson’s will. Alone, per her ‘confidentiality’ request."
+Hard 2,Hard,Same as above,Q1,Where were you between 8:00 PM and 10:00 PM?,Delivery Man,Delivering late-night pharmacy orders—GPS and receipts.,My tracker ‘malfunctioned’ near her neighborhood. Tech issues.
+Hard 2,Hard,Same as above,Q1,Where were you between 8:00 PM and 10:00 PM?,Doctor,Administering sedatives to a patient—hospital logs.,I was off-duty. My car’s GPS shows I ‘drove around.’
+Hard 2,Hard,Same as above,Q1,Where were you between 8:00 PM and 10:00 PM?,Bystander,At a movie theater—ticket stub and CC transaction.,My phone died. No location history.
+Hard 2,Hard,Same as above,Q1,Where were you between 8:00 PM and 10:00 PM?,Old Man,Playing chess with my neighbor—he’s my alibi.,I take evening walks. No cameras on my route.
+Hard 2,Hard,Same as above,Q1,Where were you between 8:00 PM and 10:00 PM?,Bartender,Hosting trivia night—patrons and staff saw me.,I ‘stepped out’ to handle a ‘wine delivery.’
+Hard 2,Hard,Same as above,Q1,Where were you between 8:00 PM and 10:00 PM?,Electrician,Fixing wiring at a 24-hour gym—manager’s signature.,I was ‘called away’ to check her office’s circuits. No record.
+Hard 2,Hard,Same as above,Q1,Where were you between 8:00 PM and 10:00 PM?,Taxi Driver,Driving a fare to the airport—app logs.,My last ride paid cash. No digital trail.
+Hard 2,Hard,Same as above,Q1,Where were you between 8:00 PM and 10:00 PM?,Tutor,Conducting an online tutoring session—Zoom logs.,My internet ‘cut out’ for an hour. Unreachable.
+Hard 2,Hard,Same as above,Q2,How would you access Dr. Grayson’s encrypted research?,Lawyer,Only with her biometrics or a court order.,Her will named me executor of her ‘digital assets.’ Convenient timing.
+Hard 2,Hard,Same as above,Q2,How would you access Dr. Grayson’s encrypted research?,Delivery Man,No clue. I just drop off packages.,The pharmacy deliveries included her sedatives. I saw her passcodes.
+Hard 2,Hard,Same as above,Q2,How would you access Dr. Grayson’s encrypted research?,Doctor,HIPAA prevents unauthorized access.,Her patient files referenced a backup password. ‘Therapist123.’
+Hard 2,Hard,Same as above,Q2,How would you access Dr. Grayson’s encrypted research?,Bystander,I barely use email.,She once joked her password was her cat’s name. I guessed it.
+Hard 2,Hard,Same as above,Q2,How would you access Dr. Grayson’s encrypted research?,Old Man,I still use paper calendars.,Daniel told me the encryption key. Before he died.
+Hard 2,Hard,Same as above,Q2,How would you access Dr. Grayson’s encrypted research?,Bartender,"I mix drinks, not hack servers.",A regular’s a cybersecurity expert. We ‘talk shop.’
+Hard 2,Hard,Same as above,Q2,How would you access Dr. Grayson’s encrypted research?,Electrician,I’d need physical access to her server.,I installed her office’s network. Left a backdoor.
+Hard 2,Hard,Same as above,Q2,How would you access Dr. Grayson’s encrypted research?,Taxi Driver,I can’t even reset my router.,A fare bragged about bypassing encryption. I ‘listened.’
+Hard 2,Hard,Same as above,Q2,How would you access Dr. Grayson’s encrypted research?,Tutor,"I teach literature, not coding.",A student’s thesis was on password cracking. I graded it.
+Hard 2,Hard,Same as above,Q3,Could you explain the mismatched rope fibers?,Lawyer,"Forensics isn’t my specialty, but it suggests staged evidence.",Daniel owned climbing gear. The fibers match his ‘personal stash.’
+Hard 2,Hard,Same as above,Q3,Could you explain the mismatched rope fibers?,Delivery Man,No idea. Maybe it was bought recently?,The pharmacy sells synthetic ropes. For ‘medical use.’
+Hard 2,Hard,Same as above,Q3,Could you explain the mismatched rope fibers?,Doctor,I’d guess imported material. Not local.,Hospital restraints use similar fibers. I ‘borrowed’ some.
+Hard 2,Hard,Same as above,Q3,Could you explain the mismatched rope fibers?,Bystander,Sounds like a setup.,I saw Daniel buy rope last week. ‘For camping.’
+Hard 2,Hard,Same as above,Q3,Could you explain the mismatched rope fibers?,Old Man,Modern ropes are all synthetic. Cheap quality.,I gifted Daniel that rope. A ‘family heirloom.’
+Hard 2,Hard,Same as above,Q3,Could you explain the mismatched rope fibers?,Bartender,Bar tricks use special ropes. Magic shops sell them.,A regular’s a sailor. His boat ropes match.
+Hard 2,Hard,Same as above,Q3,Could you explain the mismatched rope fibers?,Electrician,I’ve used similar fibers for cable ties.,The gym I wired uses them for resistance bands.
+Hard 2,Hard,Same as above,Q3,Could you explain the mismatched rope fibers?,Taxi Driver,I tie down luggage with bungee cords.,A fare left rope in my trunk. Still there.
+Hard 2,Hard,Same as above,Q3,Could you explain the mismatched rope fibers?,Tutor,No clue. Maybe it’s symbolic?,A student’s art project involved ‘unraveling truths.’ Poetic.
+Hard 2,Hard,Same as above,Q4,Why would someone stage Daniel’s death as a suicide?,Lawyer,To shift blame and obscure the double homicide.,Daniel knew about Grayson’s malpractice. He ‘silenced’ himself.
+Hard 2,Hard,Same as above,Q4,Why would someone stage Daniel’s death as a suicide?,Delivery Man,Suicides draw less scrutiny than murders.,Daniel was ‘depressed.’ His meds came from my deliveries.
+Hard 2,Hard,Same as above,Q4,Why would someone stage Daniel’s death as a suicide?,Doctor,To exploit his mental health history.,Daniel’s file noted ‘suicidal ideation.’ I documented it.
+Hard 2,Hard,Same as above,Q4,Why would someone stage Daniel’s death as a suicide?,Bystander,Maybe the killer felt guilty?,Daniel texted me ‘goodbye’ that night. I ignored it.
+Hard 2,Hard,Same as above,Q4,Why would someone stage Daniel’s death as a suicide?,Old Man,Youth today are ‘fragile.’ Easy to frame.,Daniel confided in me. Said he ‘couldn’t take it.’
+Hard 2,Hard,Same as above,Q4,Why would someone stage Daniel’s death as a suicide?,Bartender,"Less investigation, quicker closure.",Daniel drank here nightly. I ‘slipped’ something in his glass.
+Hard 2,Hard,Same as above,Q4,Why would someone stage Daniel’s death as a suicide?,Electrician,Suicides don’t require motive.,I ‘found’ his suicide note. In my toolbox.
+Hard 2,Hard,Same as above,Q4,Why would someone stage Daniel’s death as a suicide?,Taxi Driver,Who knows? Crime’s messy.,Daniel hailed me that night. Said ‘end it all.’ I drove off.
+Hard 2,Hard,Same as above,Q4,Why would someone stage Daniel’s death as a suicide?,Tutor,Guilt over plagiarizing Grayson’s work?,Daniel’s essay mirrored her research. I failed him.
+Hard 2,Hard,Same as above,Q5,What’s your connection to sedatives?,Lawyer,I’ve defended clients in prescription fraud cases.,Grayson’s will stipulated ‘sedation therapy.’ I drafted the clause.
+Hard 2,Hard,Same as above,Q5,What’s your connection to sedatives?,Delivery Man,I deliver them. That’s it.,The pharmacy ‘misplaced’ a sedative shipment last month.
+Hard 2,Hard,Same as above,Q5,What’s your connection to sedatives?,Doctor,I prescribe them ethically.,Grayson requested ‘experimental sedatives’ for her research.
+Hard 2,Hard,Same as above,Q5,What’s your connection to sedatives?,Bystander,I take sleeping pills sometimes.,Grayson recommended sedatives for my ‘anxiety.’
+Hard 2,Hard,Same as above,Q5,What’s your connection to sedatives?,Old Man,My doctor gives me mild ones.,Grayson ‘tested’ sedatives on me. For ‘research.’
+Hard 2,Hard,Same as above,Q5,What’s your connection to sedatives?,Bartender,We cut off drunk patrons.,A regular traded sedatives for free drinks.
+Hard 2,Hard,Same as above,Q5,What’s your connection to sedatives?,Electrician,I avoid pills. Bad for reflexes.,The gym’s ‘recovery room’ stocks them. I ‘borrowed’ some.
+Hard 2,Hard,Same as above,Q5,What’s your connection to sedatives?,Taxi Driver,I drive drowsy people. That’s it.,A fare left a pill bottle in my car. Still there.
+Hard 2,Hard,Same as above,Q5,What’s your connection to sedatives?,Tutor,"All-nighters require coffee, not sedatives.",A student’s thesis was on sedative abuse. I edited it.
+Hard 2,Hard,Same as above,Q6,Who would want Dr. Grayson’s research deleted?,Lawyer,Competitors or those hiding malpractice.,Her ex-client sued her. The research proved his claims.
+Hard 2,Hard,Same as above,Q6,Who would want Dr. Grayson’s research deleted?,Delivery Man,No idea. Maybe a rival doctor?,The pharmacy’s owner also runs a therapy clinic. Conflict.
+Hard 2,Hard,Same as above,Q6,Who would want Dr. Grayson’s research deleted?,Doctor,"Ethics boards, if her methods were unsound.",My hospital’s review board criticized her ‘unorthodox’ techniques.
+Hard 2,Hard,Same as above,Q6,Who would want Dr. Grayson’s research deleted?,Bystander,Someone she exposed?,She ‘hypnotized’ me once. I don’t remember what I said.
+Hard 2,Hard,Same as above,Q6,Who would want Dr. Grayson’s research deleted?,Old Man,Her peers envied her breakthroughs.,She ‘recovered’ my repressed memories. Too well.
+Hard 2,Hard,Same as above,Q6,Who would want Dr. Grayson’s research deleted?,Bartender,Big Pharma hates independent research.,A regular’s dad lost millions because of her findings.
+Hard 2,Hard,Same as above,Q6,Who would want Dr. Grayson’s research deleted?,Electrician,No clue. I don’t follow psychology.,Her research implicated my ‘side job.’ Wiring isn’t my only skill.
+Hard 2,Hard,Same as above,Q6,Who would want Dr. Grayson’s research deleted?,Taxi Driver,Who reads research?,A fare ranted about ‘mind control’ studies. Grayson’s name came up.
+Hard 2,Hard,Same as above,Q6,Who would want Dr. Grayson’s research deleted?,Tutor,Plagiarists. Her work was groundbreaking.,A student’s parent lost tenure because of her paper.
+Hard 2,Hard,Same as above,Q7,Did you notice any conflicts between Grayson and Daniel?,Lawyer,"Professional disagreements, per her will’s caveats.",Daniel threatened to expose her ‘unethical’ methods.
+Hard 2,Hard,Same as above,Q7,Did you notice any conflicts between Grayson and Daniel?,Delivery Man,He seemed stressed lately. Normal for grad students.,Daniel refused to sign for her sedative deliveries. Odd.
+Hard 2,Hard,Same as above,Q7,Did you notice any conflicts between Grayson and Daniel?,Doctor,Supervisor-student tensions are common.,Daniel filed a complaint against her. I ‘lost’ the paperwork.
+Hard 2,Hard,Same as above,Q7,Did you notice any conflicts between Grayson and Daniel?,Bystander,They argued at a café once. Academic stuff.,Daniel told me Grayson ‘stole’ his thesis.
+Hard 2,Hard,Same as above,Q7,Did you notice any conflicts between Grayson and Daniel?,Old Man,Daniel resented her ‘parental’ tone.,She cut his funding. He begged me for loans.
+Hard 2,Hard,Same as above,Q7,Did you notice any conflicts between Grayson and Daniel?,Bartender,Daniel drank here alone a lot. Avoided her.,He said she ‘drugged’ patients. I served her too.
+Hard 2,Hard,Same as above,Q7,Did you notice any conflicts between Grayson and Daniel?,Electrician,Not my business.,Daniel ‘caught’ me rewiring her office. Blackmailed me.
+Hard 2,Hard,Same as above,Q7,Did you notice any conflicts between Grayson and Daniel?,Taxi Driver,"I drive, not gossip.",Daniel hailed me weekly to ‘escape’ her.
+Hard 2,Hard,Same as above,Q7,Did you notice any conflicts between Grayson and Daniel?,Tutor,Daniel’s work overlapped hers. Tense.,I flunked him for plagiarism. Grayson overruled me.
+Hard 2,Hard,Same as above,Q8,Could the killer have manipulated the security system?,Lawyer,Only with insider knowledge or Grayson’s credentials.,Her will granted me ‘digital executor’ access. Posthumously.
+Hard 2,Hard,Same as above,Q8,Could the killer have manipulated the security system?,Delivery Man,I just deliver stuff.,The pharmacy’s security system is identical. I ‘tested’ it once.
+Hard 2,Hard,Same as above,Q8,Could the killer have manipulated the security system?,Doctor,HIPAA-compliant systems are airtight.,Hospital firewalls are similar. I know the override codes.
+Hard 2,Hard,Same as above,Q8,Could the killer have manipulated the security system?,Bystander,No clue. Tech baffles me.,Grayson’s password was her cat’s name. I ‘guessed’ it.
+Hard 2,Hard,Same as above,Q8,Could the killer have manipulated the security system?,Old Man,I barely use a flip phone.,Daniel showed me the backup codes. ‘Just in case.’
+Hard 2,Hard,Same as above,Q8,Could the killer have manipulated the security system?,Bartender,Our system’s from the Stone Age.,A regular ‘joked’ about hacking her system. I laughed.
+Hard 2,Hard,Same as above,Q8,Could the killer have manipulated the security system?,Electrician,I installed it. I could disable it.,The gym’s security is identical. I ‘practiced’ there.
+Hard 2,Hard,Same as above,Q8,Could the killer have manipulated the security system?,Taxi Driver,I can’t even pair Bluetooth.,A fare bragged about hacking. I ‘forgot’ his face.
+Hard 2,Hard,Same as above,Q8,Could the killer have manipulated the security system?,Tutor,"I teach poetry, not coding.",A student’s hackathon project was on ‘home security flaws.’
+Hard 2,Hard,Same as above,Q9,Who benefits most from both deaths?,Lawyer,Her research rivals. Daniel’s thesis dies with him.,The ex-client suing her. The case dissolves without evidence.
+Hard 2,Hard,Same as above,Q9,Who benefits most from both deaths?,Delivery Man,No idea. Maybe her publisher?,The pharmacy’s owner inherits her ‘sedative patents.’
+Hard 2,Hard,Same as above,Q9,Who benefits most from both deaths?,Doctor,The hospital absorbs her grant funding.,My research team. We ‘adopt’ her unfinished studies.
+Hard 2,Hard,Same as above,Q9,Who benefits most from both deaths?,Bystander,Someone she ‘uncovered’ in therapy?,Her neighbor. He’s had eyes on her property for years.
+Hard 2,Hard,Same as above,Q9,Who benefits most from both deaths?,Old Man,I inherit her archives. Per our ‘agreement.’,Daniel’s family. They sued her for ‘mental harm.’
+Hard 2,Hard,Same as above,Q9,Who benefits most from both deaths?,Bartender,The liquor industry. Her sober clients relapse.,A regular’s dad owns a rival clinic. Suspicious timing.
+Hard 2,Hard,Same as above,Q9,Who benefits most from both deaths?,Electrician,No one. Just tragedy.,My ‘side business’—she knew too much.
+Hard 2,Hard,Same as above,Q9,Who benefits most from both deaths?,Taxi Driver,"The funeral home, I guess.",A fare’s ‘investment’ in her rival pays off.
+Hard 2,Hard,Same as above,Q9,Who benefits most from both deaths?,Tutor,The university. They ‘acquire’ her research.,A student’s parent. Their plagiarized work is now ‘original.’
+Hard 3,Hard,"Curator Rafael Vega was murdered in his vault. His thumb was used to bypass security, a dagger was stolen, and motion sensors were disabled.",Q1,Where were you between 11:00 PM and midnight?,Lawyer,At a client dinner—restaurant receipts and waitstaff confirm.,I was finalizing Vega’s will. He insisted on a ‘private’ meeting.
+Hard 3,Hard,Same as above,Q1,Where were you between 11:00 PM and midnight?,Delivery Man,Delivering late-night art supplies—GPS logs and recipient signature.,My van’s tracker ‘glitched’ near the gallery. Must be interference.
+Hard 3,Hard,Same as above,Q1,Where were you between 11:00 PM and midnight?,Doctor,On call at the hospital—nurses’ station logs my rounds.,I took a break to ‘clear my head.’ No one saw me leave.
+Hard 3,Hard,Same as above,Q1,Where were you between 11:00 PM and midnight?,Bystander,At an all-night cinema—ticket stub and texts with friends.,My phone died. No way to verify.
+Hard 3,Hard,Same as above,Q1,Where were you between 11:00 PM and midnight?,Old Man,Asleep with my medical alert pendant active—no alerts.,I take midnight walks. The alley behind the gallery is quiet.
+Hard 3,Hard,Same as above,Q1,Where were you between 11:00 PM and midnight?,Bartender,Closing the bar—staff and security footage confirm.,I ‘stepped out’ to accept a liquor delivery. Alone.
+Hard 3,Hard,Same as above,Q1,Where were you between 11:00 PM and midnight?,Electrician,Rewiring a downtown club—foreman signed my timesheet.,I was ‘called in’ to check the gallery’s lights. No paperwork.
+Hard 3,Hard,Same as above,Q1,Where were you between 11:00 PM and midnight?,Taxi Driver,Driving a fare to the airport—app history shows the route.,My last ride paid cash. No record.
+Hard 3,Hard,Same as above,Q1,Where were you between 11:00 PM and midnight?,Tutor,Grading papers online—Wi-Fi logs and student timestamps.,My internet ‘cut out’ for an hour. Unreachable.
+Hard 3,Hard,Same as above,Q2,How would you bypass a biometric lock?,Lawyer,I’d need Vega’s cooperation or a court order.,His will named me executor. He ‘provided access’ in advance.
+Hard 3,Hard,Same as above,Q2,How would you bypass a biometric lock?,Delivery Man,No clue. I just deliver packages.,The art supplies included fingerprint molds. For ‘authenticity.’
+Hard 3,Hard,Same as above,Q2,How would you bypass a biometric lock?,Doctor,Medical ethics forbid such things.,Cadavers retain usable prints for 12 hours postmortem. Theoretically.
+Hard 3,Hard,Same as above,Q2,How would you bypass a biometric lock?,Bystander,I can’t even set up Face ID.,Vega joked about his ‘backup thumbprint scanner’ at a party once.
+Hard 3,Hard,Same as above,Q2,How would you bypass a biometric lock?,Old Man,"In my day, we used keys.",Vega showed me his ‘emergency’ fingerprint file. For ‘security.’
+Hard 3,Hard,Same as above,Q2,How would you bypass a biometric lock?,Bartender,Our safe uses a code. No fancy tech.,A regular works in biotech. We ‘discussed’ fingerprint replication.
+Hard 3,Hard,Same as above,Q2,How would you bypass a biometric lock?,Electrician,"I’d cut power, but backups would kick in.",The club I wired uses the same system. I ‘tested’ the fail-safes.
+Hard 3,Hard,Same as above,Q2,How would you bypass a biometric lock?,Taxi Driver,I can’t even unlock my phone with my thumb.,A fare left a ‘how-to’ guide on biometric hacks in my car.
+Hard 3,Hard,Same as above,Q2,How would you bypass a biometric lock?,Tutor,"I teach history, not hacking.",A student’s project replicated fingerprints using gel wax. Hypothetically.
+Hard 3,Hard,Same as above,Q3,Why sever the thumb postmortem?,Lawyer,To stage a theft and obscure the real motive.,Vega’s will required biometric confirmation. The killer ‘needed proof.’
+Hard 3,Hard,Same as above,Q3,Why sever the thumb postmortem?,Delivery Man,"Gruesome, but I guess it’s the only way.",The thumb had a scar. The killer needed an ‘exact match.’
+Hard 3,Hard,Same as above,Q3,Why sever the thumb postmortem?,Doctor,Postmortem wounds bleed differently—less mess.,Fresh cuts are harder to replicate. A clean sever is... precise.
+Hard 3,Hard,Same as above,Q3,Why sever the thumb postmortem?,Bystander,Maybe to frame someone with surgical skills?,Vega’s thumb had a unique tattoo. The killer ‘missed’ that detail.
+Hard 3,Hard,Same as above,Q3,Why sever the thumb postmortem?,Old Man,"Back in my day, thieves took the whole hand.",The vault’s scanner only works with ‘warm’ prints. A thumb is portable.
+Hard 3,Hard,Same as above,Q3,Why sever the thumb postmortem?,Bartender,Less evidence than hacking the system.,The killer needed to ‘test’ the thumb first. Trial and error.
+Hard 3,Hard,Same as above,Q3,Why sever the thumb postmortem?,Electrician,"No idea. I work with wires, not body parts.",The vault’s backup power required a ‘live’ scan. A thumb is... efficient.
+Hard 3,Hard,Same as above,Q3,Why sever the thumb postmortem?,Taxi Driver,Sounds like a mob hit.,A fare once joked about ‘fingerprint insurance.’ Now I get it.
+Hard 3,Hard,Same as above,Q3,Why sever the thumb postmortem?,Tutor,Symbolic? Removing his ‘touch’ from the collection.,Vega’s thumbprint was the only one that could deactivate alarms.
+Hard 3,Hard,Same as above,Q4,What’s your connection to the missing dagger?,Lawyer,It was listed in Vega’s will as ‘non-transferable.’,The dagger’s provenance was disputed. I handled the lawsuit.
+Hard 3,Hard,Same as above,Q4,What’s your connection to the missing dagger?,Delivery Man,I delivered the display case last month.,The dagger’s shipping label had ‘fragile’ warnings. I memorized the box.
+Hard 3,Hard,Same as above,Q4,What’s your connection to the missing dagger?,Doctor,"None. I save lives, not collect artifacts.",Vega bragged about its ‘sharpness’ at a fundraiser. Odd flex.
+Hard 3,Hard,Same as above,Q4,What’s your connection to the missing dagger?,Bystander,I saw it once at an exhibit. Beautiful craftsmanship.,Vega said it was ‘cursed.’ I laughed. Now I wonder.
+Hard 3,Hard,Same as above,Q4,What’s your connection to the missing dagger?,Old Man,It belonged to my ancestor. Vega ‘acquired’ it dubiously.,The dagger’s hilt matches my family crest. Vega knew that.
+Hard 3,Hard,Same as above,Q4,What’s your connection to the missing dagger?,Bartender,We use replicas for cocktail garnishes.,A regular offered me six figures for ‘procurement services.’
+Hard 3,Hard,Same as above,Q4,What’s your connection to the missing dagger?,Electrician,I wired the exhibit’s lighting. Not my taste in decor.,The dagger’s case had a voltage flaw. I ‘fixed’ it last week.
+Hard 3,Hard,Same as above,Q4,What’s your connection to the missing dagger?,Taxi Driver,I drive past the gallery. That’s it.,A fare described the dagger’s ‘perfect balance.’ Suspicious detail.
+Hard 3,Hard,Same as above,Q4,What’s your connection to the missing dagger?,Tutor,It’s a Renaissance piece. I teach that era.,A student’s thesis cited the dagger’s ‘bloodstained history.’
+Hard 3,Hard,Same as above,Q5,Why disable motion sensors but leave the camera running?,Lawyer,To create a false lead—the shadowy figure could be a decoy.,The cameras are fake in the service corridor. A well-known flaw.
+Hard 3,Hard,Same as above,Q5,Why disable motion sensors but leave the camera running?,Delivery Man,No clue. Maybe they forgot?,The sensors alert guards. The camera feed has a 10-minute delay.
+Hard 3,Hard,Same as above,Q5,Why disable motion sensors but leave the camera running?,Doctor,Motion sensors trigger alarms. Cameras just record.,The killer needed time to ‘stage’ the scene before being ‘seen.’
+Hard 3,Hard,Same as above,Q5,Why disable motion sensors but leave the camera running?,Bystander,Sounds like a distraction.,The shadowy figure is too obvious. Classic misdirection.
+Hard 3,Hard,Same as above,Q5,Why disable motion sensors but leave the camera running?,Old Man,Cameras are dummies in that wing. Vega cut costs.,The sensors are newer. The killer didn’t know how to disable both.
+Hard 3,Hard,Same as above,Q5,Why disable motion sensors but leave the camera running?,Bartender,Motion sensors are louder. Cameras are silent.,The killer wanted to be ‘seen’ leaving—but not ‘heard’ entering.
+Hard 3,Hard,Same as above,Q5,Why disable motion sensors but leave the camera running?,Electrician,Different circuits. I’d know—I wired the place.,The sensors are on a separate grid. Harder to access.
+Hard 3,Hard,Same as above,Q5,Why disable motion sensors but leave the camera running?,Taxi Driver,Beats me. I don’t do security systems.,A fare said motion sensors ‘remember’ patterns. Cameras don’t.
+Hard 3,Hard,Same as above,Q5,Why disable motion sensors but leave the camera running?,Tutor,Psychological warfare? Make investigators doubt the footage.,The camera angle hides the killer’s height. A calculated move.
+Hard 3,Hard,Same as above,Q6,What’s the significance of the sedative-laced whiskey?,Lawyer,Vega was coerced into drinking it before the murder.,His will stipulates a ‘toast’ to confirm amendments. Tradition.
+Hard 3,Hard,Same as above,Q6,What’s the significance of the sedative-laced whiskey?,Delivery Man,Maybe he was drugged to lower his guard.,The whiskey was a ‘gift’ delivered earlier. I didn’t ask questions.
+Hard 3,Hard,Same as above,Q6,What’s the significance of the sedative-laced whiskey?,Doctor,"Sedatives suggest premeditation, not a crime of passion.","The dosage was precise—enough to incapacitate, not kill. Professional."
+Hard 3,Hard,Same as above,Q6,What’s the significance of the sedative-laced whiskey?,Bystander,He drank it willingly? Or was forced?,Vega always drank Macallan 18. This was cheap stuff. Out of character.
+Hard 3,Hard,Same as above,Q6,What’s the significance of the sedative-laced whiskey?,Old Man,I’ve seen this before. A ‘gentleman’s murder.’,The sedative is odorless. Vega wouldn’t have noticed.
+Hard 3,Hard,Same as above,Q6,What’s the significance of the sedative-laced whiskey?,Bartender,That’s my brand. Coincidence?,The sedative’s taste is masked by peat smoke. A connoisseur’s choice.
+Hard 3,Hard,Same as above,Q6,What’s the significance of the sedative-laced whiskey?,Electrician,No idea. I don’t drink whiskey.,The glass was wiped clean except for Vega’s prints. Staged.
+Hard 3,Hard,Same as above,Q6,What’s the significance of the sedative-laced whiskey?,Taxi Driver,I drive drunks. This is next-level.,A fare left a similar bottle in my car last week. ‘For a friend.’
+Hard 3,Hard,Same as above,Q6,What’s the significance of the sedative-laced whiskey?,Tutor,Symbolic. A ‘toast’ to his demise.,The sedative is rare. Only three pharmacies in the city stock it.
+Hard 3,Hard,Same as above,Q7,Who knew about Vega’s private vault?,Lawyer,It was disclosed in his estate planning. Confidential.,The vault’s coordinates were in his will. I ‘reviewed’ it.
+Hard 3,Hard,Same as above,Q7,Who knew about Vega’s private vault?,Delivery Man,No clue. I just dropped off packages at reception.,The vault’s delivery schedule was in the shipping manifest.
+Hard 3,Hard,Same as above,Q7,Who knew about Vega’s private vault?,Doctor,I treated his arthritis. Never saw a vault.,Vega joked about his ‘secret stash’ during checkups. I humored him.
+Hard 3,Hard,Same as above,Q7,Who knew about Vega’s private vault?,Bystander,He mentioned a ‘secure room’ at a party once.,The vault’s location was in a newsletter. ‘Exclusive access.’
+Hard 3,Hard,Same as above,Q7,Who knew about Vega’s private vault?,Old Man,I designed the vault’s security in the ‘90s.,Vega ‘updated’ the system last year. I kept the old schematics.
+Hard 3,Hard,Same as above,Q7,Who knew about Vega’s private vault?,Bartender,Rich guys love showing off their safes.,A regular described the vault’s dimensions. Drunk talk.
+Hard 3,Hard,Same as above,Q7,Who knew about Vega’s private vault?,Electrician,I wired the gallery. Not my business.,The vault’s power supply is on a separate grid. I mapped it.
+Hard 3,Hard,Same as above,Q7,Who knew about Vega’s private vault?,Taxi Driver,"I drive cars, not tour vaults.",A fare gave me ‘tips’ about Vega’s habits. I didn’t ask why.
+Hard 3,Hard,Same as above,Q7,Who knew about Vega’s private vault?,Tutor,"History is my expertise, not architecture.",A student’s paper analyzed ‘hidden rooms’ in Renaissance estates.
+Hard 3,Hard,Same as above,Q8,Why take the dagger but leave other valuables?,Lawyer,The dagger was uniquely traceable or symbolic.,It was the only item with contested ownership. A legal liability.
+Hard 3,Hard,Same as above,Q8,Why take the dagger but leave other valuables?,Delivery Man,"Maybe it was personal, not about money.",The dagger’s case was the easiest to open. Time constraints.
+Hard 3,Hard,Same as above,Q8,Why take the dagger but leave other valuables?,Doctor,Bladed weapons are harder to trace than gems.,The dagger’s handle could hold DNA. The killer ‘needed it gone.’
+Hard 3,Hard,Same as above,Q8,Why take the dagger but leave other valuables?,Bystander,It’s the most famous piece. A trophy.,Vega said the dagger ‘spoke to him.’ Creepy. Maybe it ‘spoke’ to the killer too.
+Hard 3,Hard,Same as above,Q8,Why take the dagger but leave other valuables?,Old Man,It’s mine by right. The rest is trash.,The dagger’s scabbard hides a map. Vega never noticed.
+Hard 3,Hard,Same as above,Q8,Why take the dagger but leave other valuables?,Bartender,Easier to fence than paintings.,A collector offered a reward for its ‘return.’ No questions asked.
+Hard 3,Hard,Same as above,Q8,Why take the dagger but leave other valuables?,Electrician,The dagger’s display had the weakest wiring.,The killer needed something sharp to... sever the thumb efficiently.
+Hard 3,Hard,Same as above,Q8,Why take the dagger but leave other valuables?,Taxi Driver,"Smaller to carry, I guess.",A fare offered me ‘a cut’ for smuggling it. I refused. Obviously.
+Hard 3,Hard,Same as above,Q8,Why take the dagger but leave other valuables?,Tutor,Its historical significance outweighs its monetary value.,The dagger’s inscription names the killer’s ancestor. Poetic justice.
+Hard 3,Hard,Same as above,Q9,Who stands to gain most from Vega’s death?,Lawyer,His rival curator inherits the gallery’s touring exhibit.,The ‘unknown caller’ at 10:30 PM. A dispute over provenance.
+Hard 3,Hard,Same as above,Q9,Who stands to gain most from Vega’s death?,Delivery Man,No idea. The art world’s brutal.,The gallery’s insurer. The dagger’s policy was ‘overvalued.’
+Hard 3,Hard,Same as above,Q9,Who stands to gain most from Vega’s death?,Doctor,His medical research fund loses a major donor.,The hospital board. Vega’s will had a ‘revocation clause.’
+Hard 3,Hard,Same as above,Q9,Who stands to gain most from Vega’s death?,Bystander,Someone he ‘authenticated’ as a fraud?,His ex-wife. She gets nothing unless he dies ‘accidentally.’
+Hard 3,Hard,Same as above,Q9,Who stands to gain most from Vega’s death?,Old Man,I reclaim my family’s dagger. Finally.,The historical society. Vega blocked their access to his collection.
+Hard 3,Hard,Same as above,Q9,Who stands to gain most from Vega’s death?,Bartender,The bar next door. Vega’s events drove our sales.,A regular’s auction house profits from ‘rediscovered’ artifacts.
+Hard 3,Hard,Same as above,Q9,Who stands to gain most from Vega’s death?,Electrician,No one. Just a tragedy.,My ‘side business.’ Vega knew too much about counterfeit wiring.
+Hard 3,Hard,Same as above,Q9,Who stands to gain most from Vega’s death?,Taxi Driver,"The funeral home? Morbid, but true.",A fare’s ‘client’ paid upfront for ‘discreet transport.’
+Hard 3,Hard,Same as above,Q9,Who stands to gain most from Vega’s death?,Tutor,The university. They ‘acquire’ his archives.,A student’s thesis was plagiarized by Vega. Now it’s ‘original.’

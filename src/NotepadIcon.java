@@ -4,6 +4,7 @@ import java.awt.event.*;
 import java.awt.image.BufferedImage;
 import javax.imageio.ImageIO;
 import java.io.IOException;
+import javax.sound.sampled.*;
 
 public class NotepadIcon extends JButton {
     private float scale = 1.0f;
@@ -13,6 +14,7 @@ public class NotepadIcon extends JButton {
     private int baseWidth, baseHeight;
     private int originalX, originalY;
     private MainGameScene parentFrame;
+    private Clip notepadSound;
 
     public NotepadIcon(int x, int y, int width, int height, MainGameScene parent) {
         this.originalX = x;
@@ -23,7 +25,12 @@ public class NotepadIcon extends JButton {
 
         try {
             iconImage = ImageIO.read(getClass().getResource("notepad.png"));
-        } catch (IOException e) {
+
+            AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(
+                    getClass().getResource("notepad.wav"));
+            notepadSound = AudioSystem.getClip();
+            notepadSound.open(audioInputStream);
+        } catch (Exception e) {
             e.printStackTrace();
             iconImage = new BufferedImage(1, 1, BufferedImage.TYPE_INT_RGB);
             Graphics g = iconImage.getGraphics();
@@ -37,7 +44,6 @@ public class NotepadIcon extends JButton {
         setContentAreaFilled(false);
         setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
 
-        // Button hover effect
         addMouseListener(new MouseAdapter() {
             @Override
             public void mouseEntered(MouseEvent e) {
@@ -50,10 +56,17 @@ public class NotepadIcon extends JButton {
             }
         });
 
-        // Button click action
         addActionListener(e -> {
+            playNotepadSound();
             openNotepadWindow();
         });
+    }
+
+    private void playNotepadSound() {
+        if (notepadSound != null) {
+            notepadSound.setFramePosition(0);
+            notepadSound.start();
+        }
     }
 
     private void startHoverAnimation(boolean hoverIn) {
@@ -86,14 +99,51 @@ public class NotepadIcon extends JButton {
 
     private void openNotepadWindow() {
         JFrame notepadWindow = new JFrame("Notepad");
-        notepadWindow.setSize(400, 600);
+        notepadWindow.setSize(400, 350);
         notepadWindow.setLocationRelativeTo(null);
 
-        // Position to the right of the main window
         Point mainWindowLoc = getParent().getLocationOnScreen();
         notepadWindow.setLocation(mainWindowLoc.x + getParent().getWidth(), mainWindowLoc.y);
 
-        // Customize this window later
+        JTextArea textArea = new JTextArea();
+        textArea.setFont(new Font("Arial", Font.PLAIN, 14)); // Default font size
+        textArea.setLineWrap(true);
+        textArea.setWrapStyleWord(true);
+
+        JScrollPane scrollPane = new JScrollPane(textArea);
+        notepadWindow.add(scrollPane);
+
+        JPanel controlPanel = new JPanel();
+        JButton increaseFontButton = new JButton("Size(+)");
+        JButton decreaseFontButton = new JButton("Size(-)");
+
+        increaseFontButton.addActionListener(e -> {
+            Font currentFont = textArea.getFont();
+            textArea.setFont(new Font(currentFont.getName(), currentFont.getStyle(), currentFont.getSize() + 1));
+        });
+
+        decreaseFontButton.addActionListener(e -> {
+            Font currentFont = textArea.getFont();
+            if (currentFont.getSize() > 8) { // Minimum font size
+                textArea.setFont(new Font(currentFont.getName(), currentFont.getStyle(), currentFont.getSize() - 1));
+            }
+        });
+
+        controlPanel.add(decreaseFontButton);
+        controlPanel.add(increaseFontButton);
+
+        notepadWindow.add(controlPanel, BorderLayout.NORTH);
+        notepadWindow.add(scrollPane, BorderLayout.CENTER);
+
+        notepadWindow.addWindowListener(new WindowAdapter() {
+            @Override
+            public void windowClosed(WindowEvent e) {
+                if (notepadSound != null && notepadSound.isRunning()) {
+                    notepadSound.stop();
+                }
+            }
+        });
+
         notepadWindow.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         notepadWindow.setVisible(true);
     }
@@ -102,11 +152,9 @@ public class NotepadIcon extends JButton {
     protected void paintComponent(Graphics g) {
         Graphics2D g2d = (Graphics2D) g.create();
 
-        // Apply the same fade alpha as the main window
         float buttonAlpha = Math.max(0, 1 - parentFrame.getFadeAlpha());
         g2d.setComposite(AlphaComposite.getInstance(AlphaComposite.SRC_OVER, buttonAlpha));
 
-        // Draw the scaled icon
         g2d.setRenderingHint(RenderingHints.KEY_INTERPOLATION, RenderingHints.VALUE_INTERPOLATION_BILINEAR);
         g2d.drawImage(iconImage, 0, 0, getWidth(), getHeight(), this);
 

@@ -4,6 +4,7 @@ import java.awt.event.*;
 import java.awt.image.BufferedImage;
 import javax.imageio.ImageIO;
 import java.io.IOException;
+import javax.sound.sampled.*;
 
 public class ScenarioIcon extends JButton {
     private float scale = 1.0f;
@@ -13,6 +14,9 @@ public class ScenarioIcon extends JButton {
     private int baseWidth, baseHeight;
     private int originalX, originalY;
     private MainGameScene parentFrame;
+    private ScenarioDataReader.Scenario currentScenario;
+    private static JFrame scenarioWindow;
+    private Clip scenarioSound;
 
     public ScenarioIcon(int x, int y, int width, int height, MainGameScene parent) {
         this.originalX = x;
@@ -23,7 +27,12 @@ public class ScenarioIcon extends JButton {
 
         try {
             iconImage = ImageIO.read(getClass().getResource("Scenario.png"));
-        } catch (IOException e) {
+
+            AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(
+                    getClass().getResource("Scenario.wav"));
+            scenarioSound = AudioSystem.getClip();
+            scenarioSound.open(audioInputStream);
+        } catch (Exception e) {
             e.printStackTrace();
             iconImage = new BufferedImage(1, 1, BufferedImage.TYPE_INT_RGB);
             Graphics g = iconImage.getGraphics();
@@ -37,7 +46,6 @@ public class ScenarioIcon extends JButton {
         setContentAreaFilled(false);
         setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
 
-        // Button hover effect
         addMouseListener(new MouseAdapter() {
             @Override
             public void mouseEntered(MouseEvent e) {
@@ -50,19 +58,79 @@ public class ScenarioIcon extends JButton {
             }
         });
 
-        // Button click action
         addActionListener(e -> {
-            openScenarioWindow();
+            playScenarioSound();
+            if (scenarioWindow == null || !scenarioWindow.isVisible()) {
+                openScenarioWindow();
+            }
         });
+    }
+
+    private void playScenarioSound() {
+        if (scenarioSound != null) {
+            scenarioSound.setFramePosition(0);
+            scenarioSound.start();
+        }
+    }
+
+    public void setScenario(ScenarioDataReader.Scenario scenario) {
+        this.currentScenario = scenario;
+    }
+
+    public void openScenarioWindow() {
+        if (scenarioWindow != null) {
+            scenarioWindow.dispose();
+        }
+
+        scenarioWindow = new JFrame("Scenario");
+        scenarioWindow.setSize(450, 350);
+        scenarioWindow.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+
+        Point mainWindowLoc = getParent().getLocationOnScreen();
+        scenarioWindow.setLocation(mainWindowLoc.x - 450, mainWindowLoc.y);
+
+        JPanel contentPanel = new JPanel(new BorderLayout());
+        contentPanel.setBorder(BorderFactory.createEmptyBorder(15, 15, 15, 15));
+
+        JTextArea scenarioText = new JTextArea();
+        scenarioText.setEditable(false);
+        scenarioText.setLineWrap(true);
+        scenarioText.setWrapStyleWord(true);
+        scenarioText.setFont(new Font("Arial", Font.PLAIN, 18));
+        scenarioText.setMargin(new Insets(10, 10, 10, 10));
+
+        if (currentScenario != null) {
+            scenarioText.setText(currentScenario.description);
+        } else {
+            scenarioText.setText("No scenario information available");
+        }
+
+        JScrollPane scrollPane = new JScrollPane(scenarioText);
+        scrollPane.setBorder(BorderFactory.createEmptyBorder());
+        contentPanel.add(scrollPane, BorderLayout.CENTER);
+
+        scenarioWindow.add(contentPanel);
+
+        scenarioWindow.addWindowListener(new WindowAdapter() {
+            @Override
+            public void windowClosed(WindowEvent e) {
+                scenarioWindow = null;
+                if (scenarioSound != null && scenarioSound.isRunning()) {
+                    scenarioSound.stop();
+                }
+            }
+        });
+
+        scenarioWindow.setVisible(true);
     }
 
     private void startHoverAnimation(boolean hoverIn) {
         if (growTimer != null) growTimer.stop();
-        growTimer = new Timer(10, evt -> {
+        growTimer = new Timer(16, evt -> {
             if (hoverIn) {
-                scale = Math.min(scale + 0.02f, targetScale);
+                scale = Math.min(scale + 0.05f, targetScale);
             } else {
-                scale = Math.max(scale - 0.02f, 1.0f);
+                scale = Math.max(scale - 0.05f, 1.0f);
             }
             applyButtonScale();
             if ((hoverIn && scale >= targetScale) || (!hoverIn && scale <= 1.0f)) {
@@ -84,29 +152,13 @@ public class ScenarioIcon extends JButton {
         repaint();
     }
 
-    private void openScenarioWindow() {
-        JFrame scenarioWindow = new JFrame("Scenario");
-        scenarioWindow.setSize(400, 600);
-        scenarioWindow.setLocationRelativeTo(null);
-
-        // Position to the left of the main window
-        Point mainWindowLoc = getParent().getLocationOnScreen();
-        scenarioWindow.setLocation(mainWindowLoc.x - 400, mainWindowLoc.y);
-
-        // Customize this window later
-        scenarioWindow.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        scenarioWindow.setVisible(true);
-    }
-
     @Override
     protected void paintComponent(Graphics g) {
         Graphics2D g2d = (Graphics2D) g.create();
 
-        // Apply the same fade alpha as the main window
         float buttonAlpha = Math.max(0, 1 - parentFrame.getFadeAlpha());
         g2d.setComposite(AlphaComposite.getInstance(AlphaComposite.SRC_OVER, buttonAlpha));
 
-        // Draw the scaled icon
         g2d.setRenderingHint(RenderingHints.KEY_INTERPOLATION, RenderingHints.VALUE_INTERPOLATION_BILINEAR);
         g2d.drawImage(iconImage, 0, 0, getWidth(), getHeight(), this);
 
